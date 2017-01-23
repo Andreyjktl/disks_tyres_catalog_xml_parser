@@ -1,0 +1,4399 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Описание марок и моделей 23.01.2017 05:33-->
+<data>
+    <marka>
+      <name>Amtel</name>
+      <logo>http://www.4tochki.ru/pictures/tyres/Amtel/_logo/color.png</logo>
+      <html>http://www.4tochki.ru/descriptions/brands/amtel/info.html</html>
+      <models>
+        <model>
+          <name>Cargo LT</name>
+          <html>http://www.4tochki.ru/descriptions/models/amtel/Cargo_LT/info.html</html>
+        </model>
+        <model>
+          <name>Planet</name>
+          <html>http://www.4tochki.ru/descriptions/models/amtel/Planet/info.html</html>
+        </model>
+        <model>
+          <name>Planet 2P</name>
+          <html>http://www.4tochki.ru/descriptions/models/amtel/Planet_2P/info.html</html>
+        </model>
+        <model>
+          <name>Planet FT-501</name>
+          <html>http://www.4tochki.ru/descriptions/models/amtel/Planet_FT-501/info.html</html>
+        </model>
+        <model>
+          <name>Planet T-301</name>
+          <html>http://www.4tochki.ru/descriptions/models/amtel/Planet_T-301/info.html</html>
+        </model>
+      </models>
+    </marka>
+    <marka>
+      <name>Barum</name>
+      <logo>http://www.4tochki.ru/pictures/tyres/Barum/_logo/color.gif</logo>
+      <html>http://www.4tochki.ru/descriptions/brands/barum/info.html</html>
+      <models>
+        <model>
+          <name>Bravuris</name>
+          <html>http://www.4tochki.ru/descriptions/models/barum/Bravuris/info.html</html>
+        </model>
+        <model>
+          <name>Bravuris 2</name>
+          <html>http://www.4tochki.ru/descriptions/models/barum/Bravuris_2/info.html</html>
+        </model>
+        <model>
+          <name>Brillantis</name>
+          <html>http://www.4tochki.ru/descriptions/models/barum/Brillantis/info.html</html>
+        </model>
+        <model>
+          <name>Cargo OR59</name>
+          <html>http://www.4tochki.ru/descriptions/models/barum/OR59_Cargo_M+S/info.html</html>
+        </model>
+        <model>
+          <name>Norpolaris</name>
+          <html>http://www.4tochki.ru/descriptions/models/barum/Norpolaris/info.html</html>
+        </model>
+        <model>
+          <name>Polaris 2</name>
+          <html>http://www.4tochki.ru/descriptions/models/barum/Polaris_2/info.html</html>
+        </model>
+        <model>
+          <name>SnoVanis</name>
+          <html>http://www.4tochki.ru/descriptions/models/barum/SnoVanis_S/info.html</html>
+        </model>
+        <model>
+          <name>SnoVanis S</name>
+          <html>http://www.4tochki.ru/descriptions/models/barum/SnoVanis_S/info.html</html>
+        </model>
+        <model>
+          <name>Vanis</name>
+          <html>http://www.4tochki.ru/descriptions/models/barum/Vanis/info.html</html>
+        </model>
+      </models>
+    </marka>
+    <marka>
+      <name>BFGoodrich</name>
+      <logo>http://www.4tochki.ru/pictures/tyres/BFGoodrich/_logo/color.gif</logo>
+      <html>http://www.4tochki.ru/descriptions/brands/bfgoodrich/info.html</html>
+      <models>
+        <model>
+          <name>Activan</name>
+          <html>http://www.4tochki.ru/descriptions/models/bfgoodrich/Activan/info.html</html>
+        </model>
+        <model>
+          <name>Activan Winter</name>
+          <html>http://www.4tochki.ru/descriptions/models/bfgoodrich/Activan_Winter/info.html</html>
+        </model>
+        <model>
+          <name>All Terrain T/A KO</name>
+          <html>http://www.4tochki.ru/descriptions/models/bfgoodrich/All_Terrain_T/A_KO/info.html</html>
+        </model>
+        <model>
+          <name>All Terrain T/A KO2</name>
+          <html>http://www.4tochki.ru/descriptions/models/bfgoodrich/All_Terrain_TA_KO2/info.html</html>
+        </model>
+        <model>
+          <name>G-Force Profiler</name>
+          <html>http://www.4tochki.ru/descriptions/models/bfgoodrich/G-Force_Profiler/info.html</html>
+        </model>
+        <model>
+          <name>G-Force Stud</name>
+          <html>http://www.4tochki.ru/descriptions/models/bfgoodrich/G-Force_Stud/info.html</html>
+        </model>
+        <model>
+          <name>G-Force Winter</name>
+          <html>http://www.4tochki.ru/descriptions/models/bfgoodrich/G-Force_Winter/info.html</html>
+        </model>
+        <model>
+          <name>G-Force Winter 2</name>
+          <html>http://www.4tochki.ru/descriptions/models/bfgoodrich/G-Force_Winter2/info.html</html>
+        </model>
+        <model>
+          <name>G-Force Winter 2 SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/bfgoodrich/G-Force_Winter2_SUV/info.html</html>
+        </model>
+        <model>
+          <name>G-Grip</name>
+          <html>http://www.4tochki.ru/descriptions/models/bfgoodrich/G-Grip/info.html</html>
+        </model>
+        <model>
+          <name>G-Grip SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/bfgoodrich/G-Grip_SUV/info.html</html>
+        </model>
+        <model>
+          <name>Long Trail T/A</name>
+          <html>http://www.4tochki.ru/descriptions/models/bfgoodrich/Long_Trail_T/A/info.html</html>
+        </model>
+        <model>
+          <name>Long Trail T/A Tour</name>
+          <html>http://www.4tochki.ru/descriptions/models/bfgoodrich/Long_Trail_T/A_Tour/info.html</html>
+        </model>
+        <model>
+          <name>Macadam T/A</name>
+          <html>http://www.4tochki.ru/descriptions/models/bfgoodrich/Macadam_T/A/info.html</html>
+        </model>
+        <model>
+          <name>Mud Terrain T/A KM</name>
+          <html>http://www.4tochki.ru/descriptions/models/bfgoodrich/Mud_Terrain_T/A_KM/info.html</html>
+        </model>
+        <model>
+          <name>Mud Terrain T/A KM2</name>
+          <html>http://www.4tochki.ru/descriptions/models/bfgoodrich/Mud_Terrain_T/A_KM2/info.html</html>
+        </model>
+        <model>
+          <name>Profiler 2</name>
+          <html>http://www.4tochki.ru/descriptions/models/bfgoodrich/Profiler_2/info.html</html>
+        </model>
+        <model>
+          <name>Touring</name>
+          <html>http://www.4tochki.ru/descriptions/models/bfgoodrich/Touring/info.html</html>
+        </model>
+        <model>
+          <name>Urban Terrain T/A</name>
+          <html>http://www.4tochki.ru/descriptions/models/bfgoodrich/Urban_Terrain_TA_new/info.html</html>
+        </model>
+        <model>
+          <name>Winter G</name>
+          <html>http://www.4tochki.ru/descriptions/models/bfgoodrich/Winter_G/info.html</html>
+        </model>
+        <model>
+          <name>Winter Slalom</name>
+          <html>http://www.4tochki.ru/descriptions/models/bfgoodrich/Winter_Slalom/info.html</html>
+        </model>
+        <model>
+          <name>Winter Slalom Ksi</name>
+          <html>http://www.4tochki.ru/descriptions/models/bfgoodrich/Winter_Slalom_Ksi/info.html</html>
+        </model>
+      </models>
+    </marka>
+    <marka>
+      <name>Bridgestone</name>
+      <logo>http://www.4tochki.ru/pictures/tyres/Bridgestone/_logo/color.gif</logo>
+      <html>http://www.4tochki.ru/descriptions/brands/bridgestone/info.html</html>
+      <models>
+        <model>
+          <name>B250</name>
+          <html>http://www.4tochki.ru/descriptions/models/bridgestone/B250/info.html</html>
+        </model>
+        <model>
+          <name>Blizzak DM-V1</name>
+          <html>http://www.4tochki.ru/descriptions/models/bridgestone/Blizzak_DM-V1/info.html</html>
+        </model>
+        <model>
+          <name>Blizzak DM-V2</name>
+          <html>http://www.4tochki.ru/descriptions/models/bridgestone/Blizzak_DM-V2/info.html</html>
+        </model>
+        <model>
+          <name>Blizzak DM-Z3</name>
+          <html>http://www.4tochki.ru/descriptions/models/bridgestone/Blizzak_DM-Z3/info.html</html>
+        </model>
+        <model>
+          <name>Blizzak Revo 2</name>
+          <html>http://www.4tochki.ru/descriptions/models/bridgestone/Blizzak_Revo_2/info.html</html>
+        </model>
+        <model>
+          <name>Blizzak Revo GZ</name>
+          <html>http://www.4tochki.ru/descriptions/models/bridgestone/Blizzak_Revo_GZ/info.html</html>
+        </model>
+        <model>
+          <name>Blizzak RFT</name>
+          <html>http://www.4tochki.ru/descriptions/models/bridgestone/Blizzak_RFT/info.html</html>
+        </model>
+        <model>
+          <name>Blizzak Spike-01</name>
+          <html>http://www.4tochki.ru/descriptions/models/bridgestone/Blizzak_Spike-01/info.html</html>
+        </model>
+        <model>
+          <name>Blizzak Spike-02</name>
+          <html>http://www.4tochki.ru/descriptions/models/bridgestone/Blizzak_Spike-02/info.html</html>
+        </model>
+        <model>
+          <name>Blizzak VRX</name>
+          <html>http://www.4tochki.ru/descriptions/models/bridgestone/Blizzak_VRX/info.html</html>
+        </model>
+        <model>
+          <name>Blizzak W810</name>
+          <html>http://www.4tochki.ru/descriptions/models/bridgestone/Blizzak_W810/info.html</html>
+        </model>
+        <model>
+          <name>Blizzak WS-50</name>
+          <html>http://www.4tochki.ru/descriptions/models/bridgestone/Blizzak_WS-50/info.html</html>
+        </model>
+        <model>
+          <name>Blizzak WS-60</name>
+          <html>http://www.4tochki.ru/descriptions/models/bridgestone/Blizzak_WS60/info.html</html>
+        </model>
+        <model>
+          <name>Dueler A/T 694</name>
+          <html>http://www.4tochki.ru/descriptions/models/bridgestone/Dueler_A/T_694/info.html</html>
+        </model>
+        <model>
+          <name>Dueler A/T 697</name>
+          <html>http://www.4tochki.ru/descriptions/models/bridgestone/Dueler_A/T_697/info.html</html>
+        </model>
+        <model>
+          <name>Dueler H/L 400</name>
+          <html>http://www.4tochki.ru/descriptions/models/bridgestone/Dueler_HL_400/info.html</html>
+        </model>
+        <model>
+          <name>Dueler H/P Sport</name>
+          <html>http://www.4tochki.ru/descriptions/models/bridgestone/Dueler_H/P_Sport/info.html</html>
+        </model>
+        <model>
+          <name>Dueler H/T 840</name>
+          <html>http://www.4tochki.ru/descriptions/models/bridgestone/Dueler_H/T_840/info.html</html>
+        </model>
+        <model>
+          <name>Dueler H/T D684 II</name>
+          <html>http://www.4tochki.ru/descriptions/models/bridgestone/Dueler_HT_D684_II/info.html</html>
+        </model>
+        <model>
+          <name>Ecopia EP150</name>
+          <html>http://www.4tochki.ru/descriptions/models/bridgestone/Ecopia_EP150/info.html</html>
+        </model>
+        <model>
+          <name>Ecopia EP200</name>
+          <html>http://www.4tochki.ru/descriptions/models/bridgestone/Ecopia_EP200/info.html</html>
+        </model>
+        <model>
+          <name>Ecopia EP850</name>
+          <html>http://www.4tochki.ru/descriptions/models/bridgestone/Ecopia_EP850/info.html</html>
+        </model>
+        <model>
+          <name>Ice Cruiser 5000 </name>
+          <html>http://www.4tochki.ru/descriptions/models/bridgestone/Ice_Cruiser_5000/info.html</html>
+        </model>
+        <model>
+          <name>Ice Cruiser 7000</name>
+          <html>http://www.4tochki.ru/descriptions/models/bridgestone/Ice_Cruiser_7000/info.html</html>
+        </model>
+        <model>
+          <name>MY-02 Sporty Style</name>
+          <html>http://www.4tochki.ru/descriptions/models/bridgestone/MY-02_Sporty_Style/info.html</html>
+        </model>
+        <model>
+          <name>Potenza Adrenalin RE001</name>
+          <html>http://www.4tochki.ru/descriptions/models/bridgestone/Potenza_Adrenalin_RE001/info.html</html>
+        </model>
+        <model>
+          <name>Potenza Adrenalin RE002</name>
+          <html>http://www.4tochki.ru/descriptions/models/bridgestone/Potenza_Adrenalin_RE002/info.html</html>
+        </model>
+        <model>
+          <name>Potenza Adrenalin RE003</name>
+          <html>http://www.4tochki.ru/descriptions/models/bridgestone/Potenza_Adrenalin_RE003/info.html</html>
+        </model>
+        <model>
+          <name>Potenza RE031</name>
+          <html>http://www.4tochki.ru/descriptions/models/bridgestone/Potenza_RE031/info.html</html>
+        </model>
+        <model>
+          <name>Potenza RE040</name>
+          <html>http://www.4tochki.ru/descriptions/models/bridgestone/Potenza_RE040/info.html</html>
+        </model>
+        <model>
+          <name>Potenza RE050</name>
+          <html>http://www.4tochki.ru/descriptions/models/bridgestone/Potenza_RE050/info.html</html>
+        </model>
+        <model>
+          <name>Potenza RE050A</name>
+          <html>http://www.4tochki.ru/descriptions/models/bridgestone/Potenza_RE050/info.html</html>
+        </model>
+        <model>
+          <name>Potenza S001</name>
+          <html>http://www.4tochki.ru/descriptions/models/bridgestone/Potenza_S001/info.html</html>
+        </model>
+        <model>
+          <name>RD-713</name>
+          <html>http://www.4tochki.ru/descriptions/models/bridgestone/RD-713/info.html</html>
+        </model>
+        <model>
+          <name>Sports Tourer MY-01</name>
+          <html>http://www.4tochki.ru/descriptions/models/bridgestone/Sports_Tourer_MY-01/info.html</html>
+        </model>
+        <model>
+          <name>Turanza ER30</name>
+          <html>http://www.4tochki.ru/descriptions/models/bridgestone/Turanza_ER30/info.html</html>
+        </model>
+        <model>
+          <name>Turanza ER300</name>
+          <html>http://www.4tochki.ru/descriptions/models/bridgestone/Turanza_ER300/info.html</html>
+        </model>
+        <model>
+          <name>Turanza ER33</name>
+          <html>http://www.4tochki.ru/descriptions/models/bridgestone/Turanza_ER33/info.html</html>
+        </model>
+        <model>
+          <name>Turanza GR-80</name>
+          <html>http://www.4tochki.ru/descriptions/models/bridgestone/Turanza_GR-80/info.html</html>
+        </model>
+        <model>
+          <name>Turanza T001</name>
+          <html>http://www.4tochki.ru/descriptions/models/bridgestone/Turanza_T001/info.html</html>
+        </model>
+      </models>
+    </marka>
+    <marka>
+      <name>Continental</name>
+      <logo>http://www.4tochki.ru/pictures/tyres/Continental/_logo/color.gif</logo>
+      <html>http://www.4tochki.ru/descriptions/brands/continental/info.html</html>
+      <models>
+        <model>
+          <name>Conti.eContact Electric cars</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContieContact_Electric_cars/info.html</html>
+        </model>
+        <model>
+          <name>Conti.eContact Hybrid cars</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContieContact_Hybrid_cars/info.html</html>
+        </model>
+        <model>
+          <name>Conti4x4Contact</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/Conti4x4Contact/info.html</html>
+        </model>
+        <model>
+          <name>Conti4x4IceContact</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/Conti4x4IceContact/info.html</html>
+        </model>
+        <model>
+          <name>Conti4x4SportContact</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/Conti4x4SportContact/info.html</html>
+        </model>
+        <model>
+          <name>Conti4x4WinterContact</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/Conti4x4WinterContact/info.html</html>
+        </model>
+        <model>
+          <name>ContiCrossContact AT</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiCrossContact_AT/info.html</html>
+        </model>
+        <model>
+          <name>ContiCrossContact LX</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiCrossContact_LX/info.html</html>
+        </model>
+        <model>
+          <name>ContiCrossContact LX Sport</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiCrossContact_LX_Sport/info.html</html>
+        </model>
+        <model>
+          <name>ContiCrossContact LX2</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiCrossContact_LX2/info.html</html>
+        </model>
+        <model>
+          <name>ContiCrossContact UHP</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiCrossContact_UHP/info.html</html>
+        </model>
+        <model>
+          <name>ContiCrossContact Viking</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiCrossContact_Viking/info.html</html>
+        </model>
+        <model>
+          <name>ContiCrossContact Winter</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiCrossContact_Winter/info.html</html>
+        </model>
+        <model>
+          <name>ContiEcoContact 3</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiEcoContact_3/info.html</html>
+        </model>
+        <model>
+          <name>ContiEcoContact 5</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiEcoContact_5/info.html</html>
+        </model>
+        <model>
+          <name>ContiEcoContact 5 SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiEcoContact_5/info.html</html>
+        </model>
+        <model>
+          <name>ContiEcoContact EP</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiEcoContact_EP/info.html</html>
+        </model>
+        <model>
+          <name>ContiForceContact</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiForceContact_/info.html</html>
+        </model>
+        <model>
+          <name>ContiIceContact</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiIceContact/info.html</html>
+        </model>
+        <model>
+          <name>ContiIceContact 4x4</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiIceContact_4x4/info.html</html>
+        </model>
+        <model>
+          <name>ContiPremiumContact</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiPremiumContact/info.html</html>
+        </model>
+        <model>
+          <name>ContiPremiumContact 2</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiPremiumContact_2/info.html?refresh</html>
+        </model>
+        <model>
+          <name>ContiPremiumContact 5</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiPremiumContact_5/info.html</html>
+        </model>
+        <model>
+          <name>ContiPremiumContact 5 SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiPremiumContact_5_SUV/info.html</html>
+        </model>
+        <model>
+          <name>ContiSportContact</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiSportContact/info.html</html>
+        </model>
+        <model>
+          <name>ContiSportContact 2</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiSportContact_2/info.html</html>
+        </model>
+        <model>
+          <name>ContiSportContact 3</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiSportContact_3/info.html</html>
+        </model>
+        <model>
+          <name>ContiSportContact 5</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiSportContact_5/info.html</html>
+        </model>
+        <model>
+          <name>ContiSportContact 5 P</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiSportContact_5_P/info.html</html>
+        </model>
+        <model>
+          <name>ContiSportContact 5 SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiSportContact_5_SUV/info.html</html>
+        </model>
+        <model>
+          <name>ContiSportContact M3</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiSportContact_M3/info.html</html>
+        </model>
+        <model>
+          <name>ContiTrac SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiTrac_SUV/info.html</html>
+        </model>
+        <model>
+          <name>ContiVanContact 100</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiVanContact_100/info.html</html>
+        </model>
+        <model>
+          <name>ContiVanContact 200</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiVanContact_200/info.html</html>
+        </model>
+        <model>
+          <name>ContiVikingContact 3</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiVikingContact_3/info.html</html>
+        </model>
+        <model>
+          <name>ContiVikingContact 5</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiVikingContact_5/info.html</html>
+        </model>
+        <model>
+          <name>ContiVikingContact 6</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiVikingContact_6/info.html</html>
+        </model>
+        <model>
+          <name>ContiVikingContact 6 SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiVikingContact_6_SUV/info.html</html>
+        </model>
+        <model>
+          <name>ContiWinterContact TS 780</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiWinterContact_TS_780/info.html</html>
+        </model>
+        <model>
+          <name>ContiWinterContact TS 790</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiWinterContact_TS_790/info.html</html>
+        </model>
+        <model>
+          <name>ContiWinterContact TS 790 V</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiWinterContact_TS_790_V/info.html</html>
+        </model>
+        <model>
+          <name>ContiWinterContact TS 800</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiWinterContact_TS_800/info.html</html>
+        </model>
+        <model>
+          <name>ContiWinterContact TS 810</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiWinterContact_TS_810/info.html</html>
+        </model>
+        <model>
+          <name>ContiWinterContact TS 810 Sport</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiWinterContact_TS_810_Sport/info.html</html>
+        </model>
+        <model>
+          <name>ContiWinterContact TS 830</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiWinterContact_TS_830/info.html</html>
+        </model>
+        <model>
+          <name>ContiWinterContact TS 830 P</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiWinterContact_TS_830/info.html</html>
+        </model>
+        <model>
+          <name>ContiWinterContact TS 830 P SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiWinterContact_TS_830_P_SUV/info.html</html>
+        </model>
+        <model>
+          <name>ContiWinterContact TS 850</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiWinterContact_TS_850/info.html</html>
+        </model>
+        <model>
+          <name>ContiWinterContact TS 850 P SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiWinterContact_TS_850_P_SUV/info.html</html>
+        </model>
+        <model>
+          <name>ContiWinterContact TS 860</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiWinterContact_TS_860/info.html</html>
+        </model>
+        <model>
+          <name>ContiWinterViking</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiWinterViking/info.html</html>
+        </model>
+        <model>
+          <name>ContiWinterViking 2</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiWinterViking_2/info.html</html>
+        </model>
+        <model>
+          <name>CrossContact ATR</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/ContiCrossContact_ATR/info.html</html>
+        </model>
+        <model>
+          <name>IceContact 2</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/IceContact_2/info.html</html>
+        </model>
+        <model>
+          <name>IceContact 2 SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/IceContact_2_SUV/info.html</html>
+        </model>
+        <model>
+          <name>SportContact 6</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/SportContact_6/info.html</html>
+        </model>
+        <model>
+          <name>Vanco 2</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/Vanco_2/info.html</html>
+        </model>
+        <model>
+          <name>VancoContact 2</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/VancoContact_2/info.html</html>
+        </model>
+        <model>
+          <name>VancoFourSeason</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/VancoFourSeason/info.html</html>
+        </model>
+        <model>
+          <name>VancoFourSeason 2</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/VancoFourSeason_2/info.html</html>
+        </model>
+        <model>
+          <name>VancoIceContact</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/VancoIceContact/info.html</html>
+        </model>
+        <model>
+          <name>VancoViking</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/VancoViking/info.html</html>
+        </model>
+        <model>
+          <name>VancoVikingContact 2</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/VancoVikingContact_2 /info.html</html>
+        </model>
+        <model>
+          <name>VancoWinter</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/VancoWinter/info.html</html>
+        </model>
+        <model>
+          <name>VancoWinter 2</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/VancoWinter_2/info.html</html>
+        </model>
+        <model>
+          <name>VancoWinterContact</name>
+          <html>http://www.4tochki.ru/descriptions/models/continental/VancoWinterContact/info.html</html>
+        </model>
+      </models>
+    </marka>
+    <marka>
+      <name>Cooper</name>
+      <logo>http://www.4tochki.ru/pictures/tyres/Cooper/_logo/color.jpg</logo>
+      <html>http://www.4tochki.ru/descriptions/brands/coopertires/info.html</html>
+      <models>
+        <model>
+          <name>CS4 Touring TR</name>
+          <html>http://www.4tochki.ru/descriptions/models/Cooper/CS4_Touring_TR/info.html</html>
+        </model>
+        <model>
+          <name>Discoverer A/T3</name>
+          <html>http://www.4tochki.ru/descriptions/models/Cooper/Discoverer_A_T3/info.html</html>
+        </model>
+        <model>
+          <name>Discoverer CTS</name>
+          <html>http://www.4tochki.ru/descriptions/models/Cooper/Discoverer_CTS/info.html</html>
+        </model>
+        <model>
+          <name>Discoverer H/T</name>
+          <html>http://www.4tochki.ru/descriptions/models/cooper/Discoverer_H_T/info.html</html>
+        </model>
+        <model>
+          <name>Discoverer M+S </name>
+          <html>http://www.4tochki.ru/descriptions/models/cooper/Discoverer_M+S/info.html</html>
+        </model>
+        <model>
+          <name>Discoverer M+S 2</name>
+          <html>http://www.4tochki.ru/descriptions/models/cooper/Discoverer_M+S_2/info.html</html>
+        </model>
+        <model>
+          <name>Discoverer M+S Sport</name>
+          <html>http://www.4tochki.ru/descriptions/models/cooper/Discoverer_M+S_Sport/info.html</html>
+        </model>
+        <model>
+          <name>Discoverer S/T</name>
+          <html>http://www.4tochki.ru/descriptions/models/cooper/Discoverer_S_T/info.html</html>
+        </model>
+        <model>
+          <name>Discoverer SRX</name>
+          <html>http://www.4tochki.ru/descriptions/models/cooper/Discoverer_SRX/info.html</html>
+        </model>
+        <model>
+          <name>Discoverer STT</name>
+          <html>http://www.4tochki.ru/descriptions/models/cooper/Discoverer_STT/info.html</html>
+        </model>
+        <model>
+          <name>Vanmaster M+S</name>
+          <html>http://www.4tochki.ru/descriptions/models/cooper/Vanmaster_M+S/info.html</html>
+        </model>
+        <model>
+          <name>Weather-Master S/T2</name>
+          <html>http://www.4tochki.ru/descriptions/models/cooper/Weathermaster _ST_2/info.html</html>
+        </model>
+        <model>
+          <name>Weather-Master Snow</name>
+          <html>http://www.4tochki.ru/descriptions/models/cooper/Weathermaster_Snow/info.html</html>
+        </model>
+        <model>
+          <name>Weather-Master WSC</name>
+          <html>http://www.4tochki.ru/descriptions/models/cooper/Weathermaster_WSC/info.html</html>
+        </model>
+        <model>
+          <name>Zeon 2XS</name>
+          <html>http://www.4tochki.ru/descriptions/models/cooper/Zeon_2XS/info.html</html>
+        </model>
+        <model>
+          <name>Zeon 4XS</name>
+          <html>http://www.4tochki.ru/descriptions/models/cooper/Zeon_4XS/info.html</html>
+        </model>
+        <model>
+          <name>Zeon CS6</name>
+          <html>http://www.4tochki.ru/descriptions/models/cooper/Zeon_CS6/info.html</html>
+        </model>
+        <model>
+          <name>Zeon RS3-A</name>
+          <html>http://www.4tochki.ru/descriptions/models/cooper/Zeon_RS3-A/info.html</html>
+        </model>
+        <model>
+          <name>Zeon RS3-G1</name>
+          <html>http://www.4tochki.ru/descriptions/models/cooper/Zeon_RS3-G1/info.html</html>
+        </model>
+        <model>
+          <name>Zeon XSTa</name>
+          <html>http://www.4tochki.ru/descriptions/models/cooper/Zeon_XSTa/info.html</html>
+        </model>
+      </models>
+    </marka>
+    <marka>
+      <name>Cordiant</name>
+      <logo>http://www.4tochki.ru/pictures/tyres/Cordiant/_logo/color.jpg</logo>
+      <html>http://www.4tochki.ru/descriptions/brands/cordiant/info.html</html>
+      <models>
+        <model>
+          <name>4x4 О-169</name>
+          <html>http://www.4tochki.ru/descriptions/models/cordiant/4x4_169/info.html</html>
+        </model>
+        <model>
+          <name>All Terrain OA-1</name>
+          <html>http://www.4tochki.ru/descriptions/models/cordiant/All_Terrain/info.html</html>
+        </model>
+        <model>
+          <name>Business CA</name>
+          <html>http://www.4tochki.ru/descriptions/models/cordiant/Business_CA/info.html</html>
+        </model>
+        <model>
+          <name>Business CS (501)</name>
+          <html>http://www.4tochki.ru/descriptions/models/cordiant/Business_CS/info.html</html>
+        </model>
+        <model>
+          <name>Business CW (502)</name>
+          <html>http://www.4tochki.ru/descriptions/models/cordiant/Business_CW_(502)/info.html</html>
+        </model>
+        <model>
+          <name>Comfort PS-400</name>
+          <html>http://www.4tochki.ru/descriptions/models/cordiant/Comfort_PS-400/info.html</html>
+        </model>
+        <model>
+          <name>Off Road OS-501</name>
+          <html>http://www.4tochki.ru/descriptions/models/cordiant/Off_Road/info.html</html>
+        </model>
+        <model>
+          <name>Polar</name>
+          <html>http://www.4tochki.ru/descriptions/models/cordiant/Polar/info.html</html>
+        </model>
+        <model>
+          <name>Polar 2 PW-502</name>
+          <html>http://www.4tochki.ru/descriptions/models/cordiant/Polar_2_PW-502/info.html</html>
+        </model>
+        <model>
+          <name>Polar SL PW-404</name>
+          <html>http://www.4tochki.ru/descriptions/models/cordiant/Polar_SL_PW-404/info.html</html>
+        </model>
+        <model>
+          <name>Road Runner PS-1</name>
+          <html>http://www.4tochki.ru/descriptions/models/cordiant/Road_Runner/info.html</html>
+        </model>
+        <model>
+          <name>Sno-Max PW-401</name>
+          <html>http://www.4tochki.ru/descriptions/models/cordiant/Sno-Max_PW-401/info.html</html>
+        </model>
+        <model>
+          <name>Sport 2 PS-501</name>
+          <html>http://www.4tochki.ru/descriptions/models/cordiant/Sport_2_PS_501/info.html</html>
+        </model>
+        <model>
+          <name>Sport 3 PS-2</name>
+          <html>http://www.4tochki.ru/descriptions/models/cordiant/Sport/info.html</html>
+        </model>
+        <model>
+          <name>Sport W1</name>
+          <html>http://www.4tochki.ru/descriptions/models/cordiant/Sport/info.html</html>
+        </model>
+        <model>
+          <name>Standart PS-405</name>
+          <html>http://www.4tochki.ru/descriptions/models/cordiant/Standart/info.html</html>
+        </model>
+        <model>
+          <name>Standart RG1</name>
+          <html>http://www.4tochki.ru/descriptions/models/cordiant/Standart/info.html</html>
+        </model>
+        <model>
+          <name>Winter Drive PW-1</name>
+          <html>http://www.4tochki.ru/descriptions/models/cordiant/Winter_Drive_PW-1/info.html</html>
+        </model>
+      </models>
+    </marka>
+    <marka>
+      <name>Dunlop</name>
+      <logo>http://www.4tochki.ru/pictures/tyres/Dunlop/_logo/color.gif</logo>
+      <html>http://www.4tochki.ru/descriptions/brands/dunlop/info.html</html>
+      <models>
+        <model>
+          <name>Arrowmax D103</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/Arrowmax_D103/info.html</html>
+        </model>
+        <model>
+          <name>Arrowmax GT501</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/Arrowmax_GT501/info.html</html>
+        </model>
+        <model>
+          <name>D206</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/D206/info.html</html>
+        </model>
+        <model>
+          <name>D208</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/D208_GPA_Rear/info.html</html>
+        </model>
+        <model>
+          <name>D250</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/D250_Rear_TL/info.html</html>
+        </model>
+        <model>
+          <name>D251</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/D251_Front_TL/info.html</html>
+        </model>
+        <model>
+          <name>D252</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/D252_Front_TL/info.html</html>
+        </model>
+        <model>
+          <name>D306</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/D306_Front/Rear_TL/info.html</html>
+        </model>
+        <model>
+          <name>D401</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/D401_Rear_TT/info.html</html>
+        </model>
+        <model>
+          <name>D404</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/D404_WT_Front/info.html</html>
+        </model>
+        <model>
+          <name>D407</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/D407/info.html</html>
+        </model>
+        <model>
+          <name>D408</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/D408_Front/info.html</html>
+        </model>
+        <model>
+          <name>D427</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/D427/info.html</html>
+        </model>
+        <model>
+          <name>D602</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/D602_Front_TL/info.html</html>
+        </model>
+        <model>
+          <name>D603</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/D603_TT/info.html</html>
+        </model>
+        <model>
+          <name>D616</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/D616_Front_TL/info.html</html>
+        </model>
+        <model>
+          <name>D739</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/D739/info.html</html>
+        </model>
+        <model>
+          <name>D739 (HFT)</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/D739/info.html</html>
+        </model>
+        <model>
+          <name>D739 WT</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/D739_WT/info.html</html>
+        </model>
+        <model>
+          <name>D756 WT</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/D756_WT/info.html</html>
+        </model>
+        <model>
+          <name>D803</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/D803/info.html</html>
+        </model>
+        <model>
+          <name>D952</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/D952/info.html</html>
+        </model>
+        <model>
+          <name>Elite 3</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/Elite_3_Front_TL/info.html</html>
+        </model>
+        <model>
+          <name>Geomax Enduro</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/Geomax_Enduro/info.html</html>
+        </model>
+        <model>
+          <name>Geomax MX31</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/GEOMAX_MX31_Front_TT/info.html</html>
+        </model>
+        <model>
+          <name>Geomax MX51</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/Geomax_MX51_Front_TT/info.html</html>
+        </model>
+        <model>
+          <name>Geomax MX71</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/Geomax_MX71/info.html</html>
+        </model>
+        <model>
+          <name>Geomax MX71A</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/Geomax_MX71/info.html</html>
+        </model>
+        <model>
+          <name>GP Racer D211</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/GP_Racer_D211/info.html</html>
+        </model>
+        <model>
+          <name>GT301</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/GT301_Front_TL/info.html</html>
+        </model>
+        <model>
+          <name>GT502</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/GT502/info.html</html>
+        </model>
+        <model>
+          <name>K180 WT</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/K180_WT/info.html</html>
+        </model>
+        <model>
+          <name>K398</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/K398_Front/Rear_TL/info.html</html>
+        </model>
+        <model>
+          <name>K460</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/K460/info.html</html>
+        </model>
+        <model>
+          <name>K555</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/K555_Front_TL/info.html</html>
+        </model>
+        <model>
+          <name>K560</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/K560/info.html</html>
+        </model>
+        <model>
+          <name>K591</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/K591/info.html</html>
+        </model>
+        <model>
+          <name>K825</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/K825/info.html</html>
+        </model>
+        <model>
+          <name>K888</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/K888/info.html</html>
+        </model>
+        <model>
+          <name>Kabuki D404</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/Kabuki_D404_Front_TT/info.html</html>
+        </model>
+        <model>
+          <name>Scootline SX01</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/Scootline_SX01_Front_TL/info.html</html>
+        </model>
+        <model>
+          <name>Sportmax D207</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/Sportmax_D207_Front_TL/info.html</html>
+        </model>
+        <model>
+          <name>Sportmax D208</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/Sportmax_D208_Front_TL/info.html</html>
+        </model>
+        <model>
+          <name>Sportmax D210</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/Sportmax_D210_Front_TL/info.html</html>
+        </model>
+        <model>
+          <name>Sportmax D218</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/Sportmax_D218/info.html</html>
+        </model>
+        <model>
+          <name>Sportmax Mutant</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/Sportmax_Mutant_Front_TL/info.html</html>
+        </model>
+        <model>
+          <name>Sportmax Qualifier</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/Sportmax_Qualifier/info.html</html>
+        </model>
+        <model>
+          <name>Sportmax Qualifier II</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/Sportmax_Qualifier_II_Rear_TL/info.html</html>
+        </model>
+        <model>
+          <name>Sportmax Roadsmart</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/Sportmax_Roadsmart/info.html</html>
+        </model>
+        <model>
+          <name>Sportmax Roadsmart II</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/Sportmax_Roadsmart_II_Front_TL/info.html</html>
+        </model>
+        <model>
+          <name>Trailmax</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/Trailmax_Front_TT/info.html</html>
+        </model>
+        <model>
+          <name>Trailmax TR91</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopmoto/Trailmax_TR91_Front_TL/info.html</html>
+        </model>
+        <model>
+          <name>EconoDrive</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlop/EconoDrive/info.html</html>
+        </model>
+        <model>
+          <name>Grandtrek AT2</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlop/Grandtrek_AT2/info.html</html>
+        </model>
+        <model>
+          <name>Grandtrek AT3</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlop/Grandtrek_AT3/info.html</html>
+        </model>
+        <model>
+          <name>Grandtrek PT1</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlop/Grandtrek_PT1/info.html</html>
+        </model>
+        <model>
+          <name>Grandtrek SJ5</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlop/Grandtrek_SJ5/info.html</html>
+        </model>
+        <model>
+          <name>Grandtrek SJ6</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlop/Grandtrek_SJ6/info.html</html>
+        </model>
+        <model>
+          <name>Grandtrek ST20</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlop/Grandtrek_ST20/info.html</html>
+        </model>
+        <model>
+          <name>Grandtrek ST8000</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlop/Grandtrek_ST8000/info.html</html>
+        </model>
+        <model>
+          <name>Grandtrek Touring A/S</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlop/Grandtrek_Touring_A/S/info.html</html>
+        </model>
+        <model>
+          <name>Grandtrek WT M3</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlop/Grandtrek_WT_M3/info.html</html>
+        </model>
+        <model>
+          <name>Ice Touch</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlop/Ice_Touch/info.html</html>
+        </model>
+        <model>
+          <name>SP Ice Sport</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlop/SP_Ice_Sport/info.html</html>
+        </model>
+        <model>
+          <name>SP QuattroMaxx</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlop/SP_QuattroMaxx/info.html</html>
+        </model>
+        <model>
+          <name>SP Sport 01</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlop/SP_Sport_01/info.html</html>
+        </model>
+        <model>
+          <name>SP Sport 01 A/S</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlop/SP_Sport_01/info.html</html>
+        </model>
+        <model>
+          <name>SP Sport 01A</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlop/SP_Sport_01/info.html</html>
+        </model>
+        <model>
+          <name>SP Sport 5000</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlop/SP_Sport_5000/info.html</html>
+        </model>
+        <model>
+          <name>SP Sport 5000M</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlop/SP_Sport_5000/info.html</html>
+        </model>
+        <model>
+          <name>SP Sport 9000</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlop/SP_Sport_9000/info.html</html>
+        </model>
+        <model>
+          <name>SP Sport FastResponse</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlop/SP_Sport_FastResponse/info.html</html>
+        </model>
+        <model>
+          <name>SP Sport Maxx</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlop/SP_Sport_Maxx/info.html</html>
+        </model>
+        <model>
+          <name>SP Sport Maxx GT</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlop/SP_Sport_Maxx_GT/info.html</html>
+        </model>
+        <model>
+          <name>SP Sport Maxx GT600</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlop/SP_Sport_Maxx_GT/info.html</html>
+        </model>
+        <model>
+          <name>SP Sport Maxx TT</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlop/SP_Sport_Maxx_TT/info.html</html>
+        </model>
+        <model>
+          <name>SP StreetResponse</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlop/SP_StreetResponse/info.html</html>
+        </model>
+        <model>
+          <name>SP Winter Response</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlop/SP_Winter_Response/info.html</html>
+        </model>
+        <model>
+          <name>SP Winter Sport 3D</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlop/SP_Winter_Sport_3D/info.html</html>
+        </model>
+        <model>
+          <name>SP Winter Sport 4D</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlop/SP_Winter_Sport_4D/info.html</html>
+        </model>
+        <model>
+          <name>SP Winter Sport M2</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlop/SP_Winter_Sport_M2/info.html</html>
+        </model>
+        <model>
+          <name>SP Winter Sport M3</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlop/SP_Winter_Sport_M3/info.html</html>
+        </model>
+        <model>
+          <name>SP30</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlop/SP30/info.html</html>
+        </model>
+        <model>
+          <name>Sport BluResponse</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlop/Sport_BluResponse/info.html</html>
+        </model>
+        <model>
+          <name>Sport Maxx Race</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlop/Sport_Maxx_Race/info.html</html>
+        </model>
+        <model>
+          <name>Sport Maxx RT</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlop/SP_Sport_Maxx_RT/info.html</html>
+        </model>
+        <model>
+          <name>Sport Maxx RT 2</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlop/Sport_Maxx_RT_2/info.html</html>
+        </model>
+        <model>
+          <name>Winter Response 2</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlop/SP_Winter_Response_2/info.html</html>
+        </model>
+        <model>
+          <name>Winter Sport 5</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlop/Winter_Sport_5/info.html</html>
+        </model>
+        <model>
+          <name>Winter Sport 5 SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlop/Winter_Sport_5_SUV/info.html</html>
+        </model>
+      </models>
+    </marka>
+    <marka>
+      <name>Dunlop JP</name>
+      <logo>http://www.4tochki.ru/pictures/tyres/Dunlop_JP/_logo/color.gif</logo>
+      <html>http://www.4tochki.ru/descriptions/brands/dunlop/info.html</html>
+      <models>
+        <model>
+          <name>Enduro D908</name>
+          <html>http://www.4tochki.ru/descriptions/models/DunlopJPMoto/Enduro_D908/info.html</html>
+        </model>
+        <model>
+          <name>F14</name>
+          <html>http://www.4tochki.ru/descriptions/models/DunlopJPMoto/F14/info.html</html>
+        </model>
+        <model>
+          <name>Gold Seal F11</name>
+          <html>http://www.4tochki.ru/descriptions/models/DunlopJPMoto/Gold_Seal_F11/info.html</html>
+        </model>
+        <model>
+          <name>K180</name>
+          <html>http://www.4tochki.ru/descriptions/models/DunlopJPMoto/K180/info.html</html>
+        </model>
+        <model>
+          <name>Sportmax GPR-200</name>
+          <html>http://www.4tochki.ru/descriptions/models/DunlopJPMoto/Sportmax_GPR-200/info.html</html>
+        </model>
+        <model>
+          <name>Sportmax GPRa-10</name>
+          <html>http://www.4tochki.ru/descriptions/models/DunlopJPMoto/Sportmax_GPRa-10/info.html</html>
+        </model>
+        <model>
+          <name>Sportmax GPRa-11</name>
+          <html>http://www.4tochki.ru/descriptions/models/DunlopJPMoto/Sportmax_GPRa-11/info.html</html>
+        </model>
+        <model>
+          <name>Sportmax GPRa-12</name>
+          <html>http://www.4tochki.ru/descriptions/models/DunlopJPMoto/Sportmax_GPRa-12/info.html</html>
+        </model>
+        <model>
+          <name>Sportmax α-12</name>
+          <html>http://www.4tochki.ru/descriptions/models/DunlopJPMoto/Sportmax_12/info.html</html>
+        </model>
+        <model>
+          <name>Sports D952</name>
+          <html>http://www.4tochki.ru/descriptions/models/DunlopJPMoto/Sports_D952_Front/info.html</html>
+        </model>
+        <model>
+          <name>Trailmax D604</name>
+          <html>http://www.4tochki.ru/descriptions/models/DunlopJPMoto/Trailmax_D604_Front_TT/info.html</html>
+        </model>
+        <model>
+          <name>Digi-Tyre ECO EC 201</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopjp/EC201/info.html</html>
+        </model>
+        <model>
+          <name>Direzza DZ101</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopjp/Direzza_DZ101/info.html</html>
+        </model>
+        <model>
+          <name>Direzza DZ102</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlop/Direzza_DZ102/info.html</html>
+        </model>
+        <model>
+          <name>Grandtrek AT2</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopjp/Grandtrek_AT2/info.html</html>
+        </model>
+        <model>
+          <name>Grandtrek AT3</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopjp/Grandtrek_AT3/info.html</html>
+        </model>
+        <model>
+          <name>Grandtrek Ice02</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopjp/Grandtrek_ICE02/info.html</html>
+        </model>
+        <model>
+          <name>Grandtrek MT2</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopjp/Grandtrek_MT2/info.html</html>
+        </model>
+        <model>
+          <name>Grandtrek PT1</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopjp/Grandtrek_PT1/info.html</html>
+        </model>
+        <model>
+          <name>Grandtrek PT2</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopjp/Grandtrek_PT2/info.html</html>
+        </model>
+        <model>
+          <name>Grandtrek SJ5</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopjp/Grandtrek_SJ5/info.html</html>
+        </model>
+        <model>
+          <name>Grandtrek SJ6</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopjp/Grandtrek_SJ6/info.html</html>
+        </model>
+        <model>
+          <name>Graspic DS2</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopjp/Graspic_DS2/info.html</html>
+        </model>
+        <model>
+          <name>Graspic DS3</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopjp/Graspic_DS3/info.html</html>
+        </model>
+        <model>
+          <name>SP Sport 01</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopjp/SP_Sport_01/info.html</html>
+        </model>
+        <model>
+          <name>SP Sport 9000</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopjp/SP_Sport_9000/info.html</html>
+        </model>
+        <model>
+          <name>SP Sport LM703</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopjp/SP_Sport_LM703/info.html</html>
+        </model>
+        <model>
+          <name>SP Sport Maxx</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopjp/SP_Sport_Maxx/info.html</html>
+        </model>
+        <model>
+          <name>SP Sport Maxx 050+</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopjp/SP_Sport_Maxx_050plus/info.html</html>
+        </model>
+        <model>
+          <name>SP Sport Maxx TT</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopjp/SP_Sport_Maxx_TT/info.html</html>
+        </model>
+        <model>
+          <name>SP Winter Ice01</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopjp/SP_Winter_ICE01/info.html</html>
+        </model>
+        <model>
+          <name>SP Winter Sport 400</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopjp/SP_Winter_Sport_400/info.html</html>
+        </model>
+        <model>
+          <name>Sport Maxx RT</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopjp/SP_Sport_Maxx_RT/info.html</html>
+        </model>
+        <model>
+          <name>Winter Maxx SJ8</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopjp/Winter_Maxx_SJ8/info.html</html>
+        </model>
+        <model>
+          <name>Winter Maxx WM01</name>
+          <html>http://www.4tochki.ru/descriptions/models/dunlopjp/Winter_Maxx_WM01/info.html</html>
+        </model>
+      </models>
+    </marka>
+    <marka>
+      <name>Fulda</name>
+      <logo>http://www.4tochki.ru/pictures/tyres/Fulda/_logo/color.gif</logo>
+      <html>http://www.4tochki.ru/descriptions/brands/fulda/info.html</html>
+      <models>
+        <model>
+          <name>Carat Exelero</name>
+          <html>http://www.4tochki.ru/descriptions/models/fulda/Carat_Exelero/info.html</html>
+        </model>
+        <model>
+          <name>Carat Progresso</name>
+          <html>http://www.4tochki.ru/descriptions/models/fulda/Carat_Progresso/info.html</html>
+        </model>
+        <model>
+          <name>Conveo Tour</name>
+          <html>http://www.4tochki.ru/descriptions/models/fulda/Conveo_Tour/info.html</html>
+        </model>
+        <model>
+          <name>Conveo Trac</name>
+          <html>http://www.4tochki.ru/descriptions/models/fulda/Conveo_Trac/info.html</html>
+        </model>
+        <model>
+          <name>EcoControl</name>
+          <html>http://www.4tochki.ru/descriptions/models/fulda/EcoControl/info.html</html>
+        </model>
+        <model>
+          <name>Kristall 4x4</name>
+          <html>http://www.4tochki.ru/descriptions/models/fulda/Kristall_4x4/info.html</html>
+        </model>
+        <model>
+          <name>Kristall Iglu</name>
+          <html>http://www.4tochki.ru/descriptions/models/fulda/Kristall_Iglu/info.html</html>
+        </model>
+        <model>
+          <name>Kristall Montero 2</name>
+          <html>http://www.4tochki.ru/descriptions/models/fulda/Kristall_Montero_2/info.html</html>
+        </model>
+        <model>
+          <name>Kristall Montero 3</name>
+          <html>http://www.4tochki.ru/descriptions/models/fulda/Kristall_Montero_3/info.html</html>
+        </model>
+        <model>
+          <name>Kristall Supremo</name>
+          <html>http://www.4tochki.ru/descriptions/models/fulda/Kristall_Supremo/info.html</html>
+        </model>
+        <model>
+          <name>Tramp 4x4 Yukon</name>
+          <html>http://www.4tochki.ru/descriptions/models/fulda/Tramp_4x4_Yukon/info.html</html>
+        </model>
+      </models>
+    </marka>
+    <marka>
+      <name>Gislaved</name>
+      <logo>http://www.4tochki.ru/pictures/tyres/Gislaved/_logo/color.gif</logo>
+      <html>http://www.4tochki.ru/descriptions/brands/gislaved/info.html</html>
+      <models>
+        <model>
+          <name>Nord*Frost 100</name>
+          <html>http://www.4tochki.ru/descriptions/models/gislaved/Nord*Frost_100/info.html</html>
+        </model>
+        <model>
+          <name>Nord*Frost 100 SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/gislaved/Nord*Frost_100_SUV/info.html</html>
+        </model>
+        <model>
+          <name>Nord*Frost 200</name>
+          <html>http://www.4tochki.ru/descriptions/models/gislaved/Nord*Frost_200/info.html</html>
+        </model>
+        <model>
+          <name>Nord*Frost 200 SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/gislaved/Nord_Frost_200_SUV/info.html</html>
+        </model>
+        <model>
+          <name>Nord*Frost 3</name>
+          <html>http://www.4tochki.ru/descriptions/models/gislaved/Nord*Frost_3/info.html</html>
+        </model>
+        <model>
+          <name>Nord*Frost 5</name>
+          <html>http://www.4tochki.ru/descriptions/models/gislaved/Nord*Frost_5/info.html</html>
+        </model>
+        <model>
+          <name>Nord*Frost C</name>
+          <html>http://www.4tochki.ru/descriptions/models/gislaved/Nord*Frost_C/info.html</html>
+        </model>
+        <model>
+          <name>Nord*Frost VAN</name>
+          <html>http://www.4tochki.ru/descriptions/models/gislaved/Nord*Frost_VAN/info.html</html>
+        </model>
+        <model>
+          <name>Soft*Frost 2</name>
+          <html>http://www.4tochki.ru/descriptions/models/gislaved/Soft*Frost_2/info.html</html>
+        </model>
+        <model>
+          <name>Soft*Frost 200</name>
+          <html>http://www.4tochki.ru/descriptions/models/gislaved/Soft*Frost_200/info.html</html>
+        </model>
+        <model>
+          <name>Soft*Frost 200 SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/gislaved/Soft_Frost_200_SUV/info.html</html>
+        </model>
+        <model>
+          <name>Soft*Frost 3</name>
+          <html>http://www.4tochki.ru/descriptions/models/gislaved/Soft*Frost_3/info.html</html>
+        </model>
+      </models>
+    </marka>
+    <marka>
+      <name>Goodyear</name>
+      <logo>http://www.4tochki.ru/pictures/tyres/Goodyear/_logo/color.gif</logo>
+      <html>http://www.4tochki.ru/descriptions/brands/goodyear/info.html</html>
+      <models>
+        <model>
+          <name>Cargo G26</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/Cargo_G26/info.html</html>
+        </model>
+        <model>
+          <name>Cargo G28</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/Cargo_G28_08/info.html</html>
+        </model>
+        <model>
+          <name>Cargo G46</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/Cargo_G46/info.html</html>
+        </model>
+        <model>
+          <name>Cargo G91</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/Cargo_G91/info.html</html>
+        </model>
+        <model>
+          <name>Cargo Marathon</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/Cargo_Marathon/info.html</html>
+        </model>
+        <model>
+          <name>Cargo UltraGrip</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/Cargo_UltraGrip/info.html</html>
+        </model>
+        <model>
+          <name>Cargo UltraGrip 2</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/Cargo_UltraGrip_2/info.html</html>
+        </model>
+        <model>
+          <name>Cargo Vector</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/Cargo_Vector/info.html</html>
+        </model>
+        <model>
+          <name>Cargo Vector 2</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/Cargo_Vector_2/info.html</html>
+        </model>
+        <model>
+          <name>DuraGrip</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/DuraGrip/info.html</html>
+        </model>
+        <model>
+          <name>Eagle F1 Asymmetric</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/Eagle_F1_Asymmetric/info.html</html>
+        </model>
+        <model>
+          <name>Eagle F1 Asymmetric 2</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/Eagle_F1_Asymmetric_2/info.html</html>
+        </model>
+        <model>
+          <name>Eagle F1 Asymmetric 2 SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/Eagle_F1_Asymmetric_2/info.html</html>
+        </model>
+        <model>
+          <name>Eagle F1 Asymmetric 3</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/Eagle_F1_Asymmetric_3/info.html</html>
+        </model>
+        <model>
+          <name>Eagle F1 Asymmetric SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/Eagle_F1_Asymmetric_SUV/info.html</html>
+        </model>
+        <model>
+          <name>Eagle F1 GS-D3</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/Eagle_F1_GS-D3/info.html</html>
+        </model>
+        <model>
+          <name>Eagle LS-2</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/Eagle_LS-2/info.html</html>
+        </model>
+        <model>
+          <name>Eagle NCT5</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/Eagle_NCT5/info.html</html>
+        </model>
+        <model>
+          <name>Eagle RS-A</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/Eagle_RS-A/info.html</html>
+        </model>
+        <model>
+          <name>Eagle UltraGrip GW-3</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/Eagle_UltraGrip_GW-3/info.html</html>
+        </model>
+        <model>
+          <name>EfficientGrip</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/EfficientGrip/info.html</html>
+        </model>
+        <model>
+          <name>EfficientGrip Compact</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/EfficientGrip_Compact/info.html</html>
+        </model>
+        <model>
+          <name>EfficientGrip Performance</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/EfficientGrip_Performance/info.html</html>
+        </model>
+        <model>
+          <name>EfficientGrip SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/EfficientGrip_SUV/info.html</html>
+        </model>
+        <model>
+          <name>Excellence</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/Excellence/info.html</html>
+        </model>
+        <model>
+          <name>GT3</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/GT-3/info.html</html>
+        </model>
+        <model>
+          <name>HydraGrip</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/HydraGrip/info.html</html>
+        </model>
+        <model>
+          <name>OptiGrip</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/OptiGrip/info.html</html>
+        </model>
+        <model>
+          <name>UltraGrip</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/UltraGrip/info.html</html>
+        </model>
+        <model>
+          <name>UltraGrip + SUV </name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/UltraGrip_+_SUV_/info.html</html>
+        </model>
+        <model>
+          <name>UltraGrip 500</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/UltraGrip_500/info.html</html>
+        </model>
+        <model>
+          <name>UltraGrip 7</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/UltraGrip_7/info.html</html>
+        </model>
+        <model>
+          <name>UltraGrip 7+</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/UltraGrip_7+/info.html</html>
+        </model>
+        <model>
+          <name>UltraGrip 8</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/UltraGrip_8/info.html</html>
+        </model>
+        <model>
+          <name>UltraGrip 8 Performance</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/UltraGrip_8_Perfomance/info.html</html>
+        </model>
+        <model>
+          <name>UltraGrip 9</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/UltraGrip_9/info.html</html>
+        </model>
+        <model>
+          <name>UltraGrip Extreme</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/UltraGrip_Extreme/info.html</html>
+        </model>
+        <model>
+          <name>UltraGrip Ice 2</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/UltraGrip_Ice_2/info.html</html>
+        </model>
+        <model>
+          <name>UltraGrip Ice Arctic</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/UltraGrip_Ice_Arctic/info.html</html>
+        </model>
+        <model>
+          <name>UltraGrip Ice Arctic SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/UltraGrip_Ice_Arctic_SUV/info.html</html>
+        </model>
+        <model>
+          <name>UltraGrip Ice Navi Zea</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/UltraGrip_Ice_Navi_Zea/info.html</html>
+        </model>
+        <model>
+          <name>UltraGrip Ice SUV Gen-1</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/UltraGrip_Ice_SUV_Gen-1/info.html</html>
+        </model>
+        <model>
+          <name>UltraGrip Ice WRT</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/UltraGrip_Ice_WRT/info.html</html>
+        </model>
+        <model>
+          <name>UltraGrip Ice+</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/UltraGrip_Ice+/info.html</html>
+        </model>
+        <model>
+          <name>UltraGrip Performance</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/UltraGrip_Perfomance/info.html</html>
+        </model>
+        <model>
+          <name>UltraGrip Performance 2</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/UltraGrip_Perfomance_2/info.html</html>
+        </model>
+        <model>
+          <name>UltraGrip Performance Gen-1</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/UltraGrip_Performance_GEN-1/info.html</html>
+        </model>
+        <model>
+          <name>UltraGrip Performance SUV Gen-1</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/UltraGrip_Performance_GEN-1_SUV/info.html</html>
+        </model>
+        <model>
+          <name>Vector 4Seasons Gen-1</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/Vector_4Seasons/info.html</html>
+        </model>
+        <model>
+          <name>Vector 4Seasons Gen-2</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/Vector_4Seasons_Gen-2/info.html</html>
+        </model>
+        <model>
+          <name>Vector 4Seasons SUV 4x4</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/Vector_4Seasons_SUV/info.html</html>
+        </model>
+        <model>
+          <name>Vector 4Seasons SUV Gen-2</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/Vector_4Seasons_Gen-2_SUV/info.html</html>
+        </model>
+        <model>
+          <name>Vector 5+</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/Vector_5+/info.html</html>
+        </model>
+        <model>
+          <name>Wrangler All-Terrain Adventure With Kevlar</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/Wrangler_ All_Terrain_Adventure_with_Kevlar/info.html</html>
+        </model>
+        <model>
+          <name>Wrangler AT/R</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/Wrangler_AT/R/info.html</html>
+        </model>
+        <model>
+          <name>Wrangler AT/SA</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/Wrangler_AT/SA/info.html</html>
+        </model>
+        <model>
+          <name>Wrangler AT/SA+</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/Wrangler _AT_SA+/info.html</html>
+        </model>
+        <model>
+          <name>Wrangler DuraTrac</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/Wrangler_DuraTrac/info.html</html>
+        </model>
+        <model>
+          <name>Wrangler F1</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/Wrangler_F1/info.html</html>
+        </model>
+        <model>
+          <name>Wrangler F1 (WRL-2)</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/Wrangler_F1/info.html</html>
+        </model>
+        <model>
+          <name>Wrangler HP</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/Wrangler_HP/info.html</html>
+        </model>
+        <model>
+          <name>Wrangler HP All Weather</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/Wrangler_HP_All_Weather/info.html</html>
+        </model>
+        <model>
+          <name>Wrangler MT/R</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/Wrangler_MT/R/info.html</html>
+        </model>
+        <model>
+          <name>Wrangler Silentarmor</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/Wrangler_Silentarmor/info.html</html>
+        </model>
+        <model>
+          <name>Wrangler UltraGrip</name>
+          <html>http://www.4tochki.ru/descriptions/models/goodyear/Wrangler_UltraGrip/info.html</html>
+        </model>
+      </models>
+    </marka>
+    <marka>
+      <name>GT Radial</name>
+      <logo>http://www.4tochki.ru/pictures/tyres/GT_Radial/_logo/color.png</logo>
+      <html>http://www.4tochki.ru/descriptions/brands/gtradial/info.html</html>
+      <models>
+        <model>
+          <name>Adventuro A/T</name>
+          <html>http://www.4tochki.ru/descriptions/models/gtradial/Adventuro_AT/info.html</html>
+        </model>
+        <model>
+          <name>Adventuro M/T</name>
+          <html>http://www.4tochki.ru/descriptions/models/gtradial/Adventuro_MT/info.html</html>
+        </model>
+        <model>
+          <name>Champiro 128</name>
+          <html>http://www.4tochki.ru/descriptions/models/gtradial/Champiro_128/info.html</html>
+        </model>
+        <model>
+          <name>Champiro 228</name>
+          <html>http://www.4tochki.ru/descriptions/models/gtradial/Champiro_228/info.html</html>
+        </model>
+        <model>
+          <name>Champiro 328</name>
+          <html>http://www.4tochki.ru/descriptions/models/gtradial/Champiro_328/info.html</html>
+        </model>
+        <model>
+          <name>Champiro BAX2</name>
+          <html>http://www.4tochki.ru/descriptions/models/gtradial/Champiro_BAX2/info.html</html>
+        </model>
+        <model>
+          <name>Champiro ECO</name>
+          <html>http://www.4tochki.ru/descriptions/models/gtradial/Champiro_ECO/info.html</html>
+        </model>
+        <model>
+          <name>Champiro FE1</name>
+          <html>http://www.4tochki.ru/descriptions/models/gtradial/Champiro_FE1/info.html</html>
+        </model>
+        <model>
+          <name>Champiro HPX</name>
+          <html>http://www.4tochki.ru/descriptions/models/gtradial/Champiro_HPX/info.html</html>
+        </model>
+        <model>
+          <name>Champiro HPY</name>
+          <html>http://www.4tochki.ru/descriptions/models/gtradial/Champiro_HPY/info.html</html>
+        </model>
+        <model>
+          <name>Champiro Icepro</name>
+          <html>http://www.4tochki.ru/descriptions/models/gtradial/Champiro_Ice_Pro/info.html</html>
+        </model>
+        <model>
+          <name>Champiro Icepro SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/gtradial/Champiro_Ice_Pro_SUV/info.html</html>
+        </model>
+        <model>
+          <name>Champiro UHP1</name>
+          <html>http://www.4tochki.ru/descriptions/models/gtradial/Champiro_UHP1/info.html</html>
+        </model>
+        <model>
+          <name>Champiro VP1</name>
+          <html>http://www.4tochki.ru/descriptions/models/gtradial/Champiro_VP1/info.html</html>
+        </model>
+        <model>
+          <name>Maxmiler CX</name>
+          <html>http://www.4tochki.ru/descriptions/models/gtradial/Maxmiler_CX/info.html</html>
+        </model>
+        <model>
+          <name>Maxmiler EX</name>
+          <html>http://www.4tochki.ru/descriptions/models/gtradial/Maxmiler_EX/info.html</html>
+        </model>
+        <model>
+          <name>Maxmiler Pro</name>
+          <html>http://www.4tochki.ru/descriptions/models/gtradial/Maxmiler_Pro/info.html</html>
+        </model>
+        <model>
+          <name>Maxmiler X</name>
+          <html>http://www.4tochki.ru/descriptions/models/gtradial/Maxmiler_X/info.html</html>
+        </model>
+        <model>
+          <name>Savero G1</name>
+          <html>http://www.4tochki.ru/descriptions/models/gtradial/Savero_G1/info.html</html>
+        </model>
+        <model>
+          <name>Savero HP</name>
+          <html>http://www.4tochki.ru/descriptions/models/gtradial/Savero_HP/info.html</html>
+        </model>
+        <model>
+          <name>Savero HT Plus</name>
+          <html>http://www.4tochki.ru/descriptions/models/gtradial/Savero_HT_Plus/info.html</html>
+        </model>
+        <model>
+          <name>Sportactive</name>
+          <html>http://www.4tochki.ru/descriptions/models/gtradial/Sportactive/info.html</html>
+        </model>
+      </models>
+    </marka>
+    <marka>
+      <name>Hankook</name>
+      <logo>http://www.4tochki.ru/pictures/tyres/Hankook/_logo/color.jpg</logo>
+      <html>http://www.4tochki.ru/descriptions/brands/Hankook/info.html</html>
+      <models>
+        <model>
+          <name>Dynapro ATM RF10</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Dynapro Atm RF10/Hankook Dynapro Atm RF10.html</html>
+        </model>
+        <model>
+          <name>Dynapro HP RA23</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Dynapro HP RA23/Hankook Dynapro HP RA23.html</html>
+        </model>
+        <model>
+          <name>Dynapro HP2 RA33</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Dynapro HP2 RA33/Hankook Dynapro HP2 RA33.html</html>
+        </model>
+        <model>
+          <name>Dynapro i*cept RW08</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Dynapro_i*cept_RW08/info.html</html>
+        </model>
+        <model>
+          <name>Dynapro MT RT03</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Dynapro MT RT03/Hankook Dynapro MT RT03.html</html>
+        </model>
+        <model>
+          <name>i*Pike RW11</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/i*Pike_RW11/info.html</html>
+        </model>
+        <model>
+          <name>IceBear W300A</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/IceBear_W300A/info.html</html>
+        </model>
+        <model>
+          <name>Kinergy Eco K425</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Kinergy Eco K425/Hankook Kinergy Eco K425.html</html>
+        </model>
+        <model>
+          <name>Optimo K415</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Optimo K415/Hankook Optimo K415.html</html>
+        </model>
+        <model>
+          <name>Optimo K715</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Optimo K715/Hankook Optimo K715.html</html>
+        </model>
+        <model>
+          <name>Optimo ME02 K424</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Optimo ME02 K424/Hankook Optimo ME02 K424.html</html>
+        </model>
+        <model>
+          <name>Radial RA08</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Radial RA08/Hankook Radial RA08.html</html>
+        </model>
+        <model>
+          <name>Radial RA10</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Radial RA10/info.html</html>
+        </model>
+        <model>
+          <name>Radial RA14</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Radial_RA14/info.html</html>
+        </model>
+        <model>
+          <name>Vantra LT RA18</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Vantra LT RA18/Hankook Vantra LT RA18.html</html>
+        </model>
+        <model>
+          <name>Ventus AS RH07</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Ventus AS RH07/Hankook Ventus AS RH07.html</html>
+        </model>
+        <model>
+          <name>Ventus ME01 K114</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Ventus ME01 K114/Hankook Ventus ME01 K114.html</html>
+        </model>
+        <model>
+          <name>Ventus Prime 2 K115</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Ventus_Prime_2_K115/info.html</html>
+        </model>
+        <model>
+          <name>Ventus Prime 2 K115B</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Ventus_Prime_2_K115B/info.html</html>
+        </model>
+        <model>
+          <name>Ventus Prime 3 K125</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Ventus_Prime_3_K125/info.html</html>
+        </model>
+        <model>
+          <name>Ventus R-S3 Z222</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Ventus R-S3 Z222/Hankook Ventus R-S3 Z222.html</html>
+        </model>
+        <model>
+          <name>Ventus S1 Evo 2 K117</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Ventus_S1_Evo2_K117/Hankook Ventus S1 evo 2 K117.html</html>
+        </model>
+        <model>
+          <name>Ventus S1 Evo 2 K117A SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Ventus_S1_evo2_K117_SUV/info.html</html>
+        </model>
+        <model>
+          <name>Ventus S1 Evo 2 K117B</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Ventus_S1_Evo2_K117B/info.html</html>
+        </model>
+        <model>
+          <name>Ventus S1 Evo K107</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Ventus S1 evo K107/Hankook Ventus S1 evo K107.html</html>
+        </model>
+        <model>
+          <name>Ventus ST RH06</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Ventus ST RH06/Hankook Ventus ST RH06.html</html>
+        </model>
+        <model>
+          <name>Ventus V12 Evo 2 K120</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Ventus V12 evo2 K120/Hankook Ventus V12 evo2 K120.html</html>
+        </model>
+        <model>
+          <name>Ventus V12 Evo K110</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Ventus_V12_evo_K110/info.html</html>
+        </model>
+        <model>
+          <name>Winter i*cept Evo 2 SUV W320A</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Winter_I*cept_Evo_2_W320A_SUV/info.html?refresh</html>
+        </model>
+        <model>
+          <name>Winter i*cept Evo 2 W320</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Winter_I*cept_Evo_2_W320/info.html</html>
+        </model>
+        <model>
+          <name>Winter i*cept Evo 2 W320A</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Winter_I*cept_Evo_2_W320A/info.html</html>
+        </model>
+        <model>
+          <name>Winter i*cept Evo W310</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Winter_i*cept_Evo_W310/info.html</html>
+        </model>
+        <model>
+          <name>Winter i*cept IZ W606</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Winter_i*cept_IZ_W606/info.html</html>
+        </model>
+        <model>
+          <name>Winter i*cept IZ2 W616</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Winter_i*cept_IZ2_W616/info.html</html>
+        </model>
+        <model>
+          <name>Winter i*cept RS W442</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Winter_i*cept_RS_W422/info.html</html>
+        </model>
+        <model>
+          <name>Winter i*cept RS2 W452</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Winter_i*cept_RS2_W452/info.html</html>
+        </model>
+        <model>
+          <name>Winter i*cept W605</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Winter_i*cept_W605/info.html</html>
+        </model>
+        <model>
+          <name>Winter i*Pike LT RW09</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Winter_i*Pike_LT_RW09/info.html</html>
+        </model>
+        <model>
+          <name>Winter i*Pike RS W419</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Winter_i*Pike_RS_W419/info.html</html>
+        </model>
+        <model>
+          <name>Winter i*Pike W409</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Winter_i*Pike_W409/info.html</html>
+        </model>
+        <model>
+          <name>Winter Radial DW04</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Winter_Radial_DW04/info.html</html>
+        </model>
+        <model>
+          <name>Winter RW06</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Winter_RW06/info.html</html>
+        </model>
+        <model>
+          <name>Zovac HP W401</name>
+          <html>http://www.4tochki.ru/descriptions/models/Hankook/Zovac_HP_W401/info.html</html>
+        </model>
+      </models>
+    </marka>
+    <marka>
+      <name>Jinyu</name>
+      <logo>http://www.4tochki.ru/pictures/tyres/Jinyu/_logo/color.jpg</logo>
+      <html>http://www.4tochki.ru/descriptions/brands/Jinyu/info.html</html>
+      <models>
+        <model>
+          <name>YS71</name>
+          <html>http://www.4tochki.ru/descriptions/models/jinyu/YS71/info.html</html>
+        </model>
+      </models>
+    </marka>
+    <marka>
+      <name>Kelly</name>
+      <logo>http://www.4tochki.ru/pictures/tyres/Kelly/_logo/color.gif</logo>
+      <html>http://www.4tochki.ru/descriptions/brands/kelly/info.html</html>
+      <models>
+        <model>
+          <name>Kelly Winter ST</name>
+          <html>http://www.4tochki.ru/descriptions/models/kelly/Kelly_Winter_ST/info.html</html>
+        </model>
+      </models>
+    </marka>
+    <marka>
+      <name>Kleber</name>
+      <logo>http://www.4tochki.ru/pictures/tyres/Kleber/_logo/color.gif</logo>
+      <html>http://www.4tochki.ru/descriptions/brands/kleber/info.html</html>
+      <models>
+        <model>
+          <name>Dynaxer DR</name>
+          <html>http://www.4tochki.ru/descriptions/models/kleber/Dynaxer_DR/info.html</html>
+        </model>
+        <model>
+          <name>Dynaxer HP</name>
+          <html>http://www.4tochki.ru/descriptions/models/kleber/Dynaxer_HP/info.html</html>
+        </model>
+        <model>
+          <name>Dynaxer HP2</name>
+          <html>http://www.4tochki.ru/descriptions/models/kleber/Dynaxer_HP2/info.html</html>
+        </model>
+        <model>
+          <name>Dynaxer HP3</name>
+          <html>http://www.4tochki.ru/descriptions/models/kleber/Dynaxer_HP3/info.html</html>
+        </model>
+        <model>
+          <name>Hydraxer</name>
+          <html>http://www.4tochki.ru/descriptions/models/kleber/Hydraxer/info.html</html>
+        </model>
+        <model>
+          <name>Kapnor 5</name>
+          <html>http://www.4tochki.ru/descriptions/models/kleber/Kapnor_5/info.html</html>
+        </model>
+        <model>
+          <name>Krisalp HP</name>
+          <html>http://www.4tochki.ru/descriptions/models/kleber/Krisalp_HP/info.html</html>
+        </model>
+        <model>
+          <name>Krisalp HP2</name>
+          <html>http://www.4tochki.ru/descriptions/models/kleber/Krisalp_HP/info.html</html>
+        </model>
+        <model>
+          <name>Viaxer</name>
+          <html>http://www.4tochki.ru/descriptions/models/kleber/Viaxer/info.html</html>
+        </model>
+      </models>
+    </marka>
+    <marka>
+      <name>Kormoran</name>
+      <logo>http://www.4tochki.ru/pictures/tyres/Kormoran/_logo/color.png</logo>
+      <html>http://www.4tochki.ru/descriptions/brands/Kormoran/info.html</html>
+      <models>
+        <model>
+          <name>Gamma b2</name>
+          <html>http://www.4tochki.ru/descriptions/models/kormoran/Gamma_b2/info.html</html>
+        </model>
+        <model>
+          <name>Gamma b4</name>
+          <html>http://www.4tochki.ru/descriptions/models/kormoran/Gamma_b4/info.html</html>
+        </model>
+        <model>
+          <name>Impulser b2</name>
+          <html>http://www.4tochki.ru/descriptions/models/kormoran/Impulser_b2/info.html</html>
+        </model>
+        <model>
+          <name>Impulser b3</name>
+          <html>http://www.4tochki.ru/descriptions/models/kormoran/Impulser_b3/info.html</html>
+        </model>
+        <model>
+          <name>Impulser b4</name>
+          <html>http://www.4tochki.ru/descriptions/models/kormoran/Impulser_b4/info.html</html>
+        </model>
+        <model>
+          <name>Runpro b3</name>
+          <html>http://www.4tochki.ru/descriptions/models/kormoran/Runpro_b3/info.html</html>
+        </model>
+        <model>
+          <name>Snowpro</name>
+          <html>http://www.4tochki.ru/descriptions/models/kormoran/Snowpro/info.html</html>
+        </model>
+        <model>
+          <name>Snowpro b2</name>
+          <html>http://www.4tochki.ru/descriptions/models/kormoran/Snowpro_b2/info.html</html>
+        </model>
+        <model>
+          <name>Snowpro b4</name>
+          <html>http://www.4tochki.ru/descriptions/models/kormoran/Snowpro_b4/info.html</html>
+        </model>
+        <model>
+          <name>Stud</name>
+          <html>http://www.4tochki.ru/descriptions/models/kormoran/Stud/info.html</html>
+        </model>
+        <model>
+          <name>SUV Summer</name>
+          <html>http://www.4tochki.ru/descriptions/models/kormoran/Summer_SUV/info.html</html>
+        </model>
+        <model>
+          <name>Vanpro b2</name>
+          <html>http://www.4tochki.ru/descriptions/models/kormoran/Vanpro_b2/info.html</html>
+        </model>
+        <model>
+          <name>Vanpro b3</name>
+          <html>http://www.4tochki.ru/descriptions/models/kormoran/Vanpro_b3/info.html</html>
+        </model>
+        <model>
+          <name>Vanpro Winter</name>
+          <html>http://www.4tochki.ru/descriptions/models/kormoran/Vanpro_Winter/info.html</html>
+        </model>
+      </models>
+    </marka>
+    <marka>
+      <name>Kumho Marshal</name>
+      <logo>http://www.4tochki.ru/pictures/tyres/Marshal/_logo/color.JPG</logo>
+      <html>http://www.4tochki.ru/descriptions/brands/kumhomarshal/info.html</html>
+    </marka>
+    <marka>
+      <name>Marshal</name>
+      <logo>http://www.4tochki.ru/pictures/tyres/Marshal/_logo/color.JPG</logo>
+      <html>http://www.4tochki.ru/descriptions/brands/kumhomarshal/info.html</html>
+      <models>
+        <model>
+          <name>Crugen HP91</name>
+          <html>http://www.4tochki.ru/descriptions/models/kumhomarshal/Crugen_HP91_Marshal/info.html</html>
+        </model>
+        <model>
+          <name>Crugen KL21</name>
+          <html>http://www.4tochki.ru/descriptions/models/kumhomarshal/Crugen_KL21_Marshal/info.html</html>
+        </model>
+        <model>
+          <name>Ice King KW21</name>
+          <html>http://www.4tochki.ru/descriptions/models/kumhomarshal/I'Zen_Ice_King_KW21_Marshal/info.html</html>
+        </model>
+        <model>
+          <name>I'Zen KW15</name>
+          <html>http://www.4tochki.ru/descriptions/models/kumhomarshal/I'Zen_KW15_Marshal/info.html</html>
+        </model>
+        <model>
+          <name>I'Zen KW22</name>
+          <html>http://www.4tochki.ru/descriptions/models/kumhomarshal/I'Zen_KW22_Marshal/info.html</html>
+        </model>
+        <model>
+          <name>I'Zen KW31</name>
+          <html>http://www.4tochki.ru/descriptions/models/kumhomarshal/I'Zen KW31_Marshal/info.html</html>
+        </model>
+        <model>
+          <name>I'Zen MW15</name>
+          <html>http://www.4tochki.ru/descriptions/models/kumhomarshal/I'Zen_MW15_Marshal/info.html</html>
+        </model>
+        <model>
+          <name>I'Zen RV KC15</name>
+          <html>http://www.4tochki.ru/descriptions/models/kumhomarshal/I'Zen_RV_KC15_Marshal/info.html</html>
+        </model>
+        <model>
+          <name>I'Zen RV Stud KC16</name>
+          <html>http://www.4tochki.ru/descriptions/models/kumhomarshal/I'Zen_RV_Stud_KC16_Marshal/info.html</html>
+        </model>
+        <model>
+          <name>I'Zen Stud KW11</name>
+          <html>http://www.4tochki.ru/descriptions/models/kumhomarshal/I'Zen_Stud_KW11_Marshal/info.html</html>
+        </model>
+        <model>
+          <name>I'Zen WIS KW19</name>
+          <html>http://www.4tochki.ru/descriptions/models/kumhomarshal/I'Zen_WIS_KW19_Marshal/info.html</html>
+        </model>
+        <model>
+          <name>Matrac FX MU11</name>
+          <html>http://www.4tochki.ru/descriptions/models/kumhomarshal/Matrac_FX_MU11_Marshal/info.html</html>
+        </model>
+        <model>
+          <name>Matrac MH11</name>
+          <html>http://www.4tochki.ru/descriptions/models/kumhomarshal/Matrac_MH11_Marshal/info.html</html>
+        </model>
+        <model>
+          <name>Matrac MU19</name>
+          <html>http://www.4tochki.ru/descriptions/models/kumhomarshal/Matrac_MU19_Marshal/info.html</html>
+        </model>
+        <model>
+          <name>Matrac STX KL12</name>
+          <html>http://www.4tochki.ru/descriptions/models/kumhomarshal/Matrac_STX_KL12_Marshal/info.html</html>
+        </model>
+        <model>
+          <name>Matrac X3 KL17</name>
+          <html>http://www.4tochki.ru/descriptions/models/kumhomarshal/Matrac_X3KL17_Marshal/info.html</html>
+        </model>
+        <model>
+          <name>Matrac XM KH35</name>
+          <html>http://www.4tochki.ru/descriptions/models/kumhomarshal/Matrac_XM_KH35_Marshal/info.html</html>
+        </model>
+        <model>
+          <name>MH12</name>
+          <html>http://www.4tochki.ru/descriptions/models/kumhomarshal/MH12_Marshal/info.html</html>
+        </model>
+        <model>
+          <name>MU12</name>
+          <html>http://www.4tochki.ru/descriptions/models/kumhomarshal/MU12_Marshal/info.html</html>
+        </model>
+        <model>
+          <name>PorTran KC53</name>
+          <html>http://www.4tochki.ru/descriptions/models/kumhomarshal/PorTran_KC53_Marshal/info.html</html>
+        </model>
+        <model>
+          <name>Power Grip KC11</name>
+          <html>http://www.4tochki.ru/descriptions/models/kumhomarshal/Power_Grip_KC11_Marshal/info.html</html>
+        </model>
+        <model>
+          <name>Radial 857</name>
+          <html>http://www.4tochki.ru/descriptions/models/kumhomarshal/857_Radial_Marshal/info.html</html>
+        </model>
+        <model>
+          <name>Road Venture APT KL51</name>
+          <html>http://www.4tochki.ru/descriptions/models/kumhomarshal/Road_Venture_APT_KL51_Marshal/info.html</html>
+        </model>
+        <model>
+          <name>Road Venture AT KL78</name>
+          <html>http://www.4tochki.ru/descriptions/models/kumhomarshal/Road_Venture_AT_KL78_Marshal/info.html</html>
+        </model>
+        <model>
+          <name>Road Venture AT51</name>
+          <html>http://www.4tochki.ru/descriptions/models/kumhomarshal/Road_Venture_AT51_Marshal/info.html</html>
+        </model>
+        <model>
+          <name>Road Venture MT KL71</name>
+          <html>http://www.4tochki.ru/descriptions/models/kumhomarshal/Road_Venture_MT_KL71_Marshal/info.html</html>
+        </model>
+        <model>
+          <name>Road Venture MT51</name>
+          <html>http://www.4tochki.ru/descriptions/models/kumhomarshal/Road_Venture_MT51_Marshal/info.html</html>
+        </model>
+        <model>
+          <name>Road Venture SAT KL61</name>
+          <html>http://www.4tochki.ru/descriptions/models/kumhomarshal/Road_Venture_SAT_KL61_Marshal/info.html</html>
+        </model>
+        <model>
+          <name>Solus KR21</name>
+          <html>http://www.4tochki.ru/descriptions/models/kumhomarshal/Solus_KR21_Marshal/info.html</html>
+        </model>
+        <model>
+          <name>Steel Radial 856</name>
+          <html>http://www.4tochki.ru/descriptions/models/kumhomarshal/Steel_Radial_856_Marshal/info.html</html>
+        </model>
+        <model>
+          <name>Steel Radial KR11</name>
+          <html>http://www.4tochki.ru/descriptions/models/kumhomarshal/Steel_Radial_KR11_Marshal/info.html</html>
+        </model>
+        <model>
+          <name>Winter PorTran CW51</name>
+          <html>http://www.4tochki.ru/descriptions/models/kumhomarshal/Winter_PorTran_CW51_Marshal/info.html</html>
+        </model>
+        <model>
+          <name>WinterCraft Ice WI31</name>
+          <html>http://www.4tochki.ru/descriptions/models/kumhomarshal/WinterCraft_Ice_WI31_Marshal/info.html</html>
+        </model>
+        <model>
+          <name>WinterCraft SUV Ice WS31</name>
+          <html>http://www.4tochki.ru/descriptions/models/kumhomarshal/WinterCraft_SUV_Ice_WS31_Marshal/info.html</html>
+        </model>
+      </models>
+    </marka>
+    <marka>
+      <name>Matador</name>
+      <logo>http://www.4tochki.ru/pictures/tyres/Matador/_logo/color.jpg</logo>
+      <html>http://www.4tochki.ru/descriptions/brands/Matador/info.html</html>
+      <models>
+        <model>
+          <name>MP 30 Sibir Ice 2</name>
+          <html>http://www.4tochki.ru/descriptions/models/matador/MP30_Sibir_Ice_2/info.html</html>
+        </model>
+        <model>
+          <name>MP 30 Sibir Ice 2 SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/matador/MP30_Sibir_Ice_2_SUV/info.html</html>
+        </model>
+        <model>
+          <name>MP 44 Elite 3</name>
+          <html>http://www.4tochki.ru/descriptions/models/matador/MP44_Elite3/info.html</html>
+        </model>
+        <model>
+          <name>MP 72 Izzarda A/T 2</name>
+          <html>http://www.4tochki.ru/descriptions/models/matador/MP72_Izzarda_ AT2/info.html</html>
+        </model>
+        <model>
+          <name>MPS 320 Maxilla</name>
+          <html>http://www.4tochki.ru/descriptions/models/matador/MPS_320_Maxilla/info.html</html>
+        </model>
+        <model>
+          <name>MPS 500 Sibir Ice Van</name>
+          <html>http://www.4tochki.ru/descriptions/models/matador/MPS500_Sibir_Ice_Van/info.html</html>
+        </model>
+      </models>
+    </marka>
+    <marka>
+      <name>Maxxis</name>
+      <logo>http://www.4tochki.ru/pictures/tyres/Maxxis/_logo/color.jpg</logo>
+      <html>http://www.4tochki.ru/descriptions/brands/maxxis/info.html</html>
+      <models>
+        <model>
+          <name>MA-P1</name>
+          <html>http://www.4tochki.ru/descriptions/models/maxxis/MA-P1/info.html</html>
+        </model>
+      </models>
+    </marka>
+    <marka>
+      <name>Metzeler</name>
+      <logo>http://www.4tochki.ru/pictures/tyres/Metzeler/_logo/color.png</logo>
+      <html>http://www.4tochki.ru/descriptions/brands/metzeler/info.html</html>
+      <models>
+        <model>
+          <name>Enduro 3 Sahara</name>
+          <html>http://www.4tochki.ru/descriptions/models/metzeler/Enduro_3_Sahara/info.html</html>
+        </model>
+        <model>
+          <name>Feelfree</name>
+          <html>http://www.4tochki.ru/descriptions/models/metzeler/Feelfree/info.html</html>
+        </model>
+        <model>
+          <name>Feelfree Wintec</name>
+          <html>http://www.4tochki.ru/descriptions/models/metzeler/Feelfree_Wintec/info.html</html>
+        </model>
+        <model>
+          <name>Lasertec</name>
+          <html>http://www.4tochki.ru/descriptions/models/metzeler/Lasertec/info.html</html>
+        </model>
+        <model>
+          <name>MC 4</name>
+          <html>http://www.4tochki.ru/descriptions/models/metzeler/MC_4/info.html</html>
+        </model>
+        <model>
+          <name>MC 5</name>
+          <html>http://www.4tochki.ru/descriptions/models/metzeler/MC_5/info.html</html>
+        </model>
+        <model>
+          <name>MC 6</name>
+          <html>http://www.4tochki.ru/descriptions/models/metzeler/MC_6/info.html</html>
+        </model>
+        <model>
+          <name>MCE 6 Days Extreme</name>
+          <html>http://www.4tochki.ru/descriptions/models/metzeler/MCE_6_Days_Extreme/info.html</html>
+        </model>
+        <model>
+          <name>ME 22</name>
+          <html>http://www.4tochki.ru/descriptions/models/metzeler/ME_22/info.html</html>
+        </model>
+        <model>
+          <name>ME 7 Teen</name>
+          <html>http://www.4tochki.ru/descriptions/models/metzeler/ME_7_Teen/info.html</html>
+        </model>
+        <model>
+          <name>ME 880 Marathon</name>
+          <html>http://www.4tochki.ru/descriptions/models/metzeler/ME_880_Marathon/info.html</html>
+        </model>
+        <model>
+          <name>Perfect ME 77</name>
+          <html>http://www.4tochki.ru/descriptions/models/metzeler/Perfect_ME_77/info.html</html>
+        </model>
+        <model>
+          <name>Racetec</name>
+          <html>http://www.4tochki.ru/descriptions/models/metzeler/Racetec/info.html</html>
+        </model>
+        <model>
+          <name>Roadtec Z6</name>
+          <html>http://www.4tochki.ru/descriptions/models/metzeler/Roadtec_Z6/info.html</html>
+        </model>
+        <model>
+          <name>Roadtec Z8</name>
+          <html>http://www.4tochki.ru/descriptions/models/metzeler/Roadtec_Z8/info.html</html>
+        </model>
+        <model>
+          <name>Sportec M3</name>
+          <html>http://www.4tochki.ru/descriptions/models/metzeler/Sportec_M3/info.html</html>
+        </model>
+        <model>
+          <name>Sportec M5</name>
+          <html>http://www.4tochki.ru/descriptions/models/metzeler/Sportec_M5/info.html</html>
+        </model>
+        <model>
+          <name>Tourance</name>
+          <html>http://www.4tochki.ru/descriptions/models/metzeler/Tourance/info.html</html>
+        </model>
+      </models>
+    </marka>
+    <marka>
+      <name>Michelin</name>
+      <logo>http://www.4tochki.ru/pictures/tyres/Michelin/_logo/color.gif</logo>
+      <html>http://www.4tochki.ru/descriptions/brands/michelin/info.html</html>
+      <models>
+        <model>
+          <name>Agilis</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Agilis/info.html</html>
+        </model>
+        <model>
+          <name>Anakee</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/Anakee_Front/info.html</html>
+        </model>
+        <model>
+          <name>Anakee 2</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/Anakee_2/info.html</html>
+        </model>
+        <model>
+          <name>Anakee 3</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/Anakee_3/info.html</html>
+        </model>
+        <model>
+          <name>Bopper</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/Bopper_Universal/info.html</html>
+        </model>
+        <model>
+          <name>City Grip</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/City_Grip/info.html</html>
+        </model>
+        <model>
+          <name>Commander</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/Commander/info.html</html>
+        </model>
+        <model>
+          <name>Commander II</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/Commander_II/info.html</html>
+        </model>
+        <model>
+          <name>Cross Competition M12XC</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/M12XC/info.html</html>
+        </model>
+        <model>
+          <name>Desert Race</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/Desert_Race_Front/info.html</html>
+        </model>
+        <model>
+          <name>Enduro Competition III</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/Enduro_Competition_III_Rear/info.html</html>
+        </model>
+        <model>
+          <name>Enduro Competition IV</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/Enduro_Competition_IV/info.html</html>
+        </model>
+        <model>
+          <name>Enduro Competition MS</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/Enduro_Competition_MS/info.html</html>
+        </model>
+        <model>
+          <name>Enduro Competition VI</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/Enduro_Competition_VI/info.html</html>
+        </model>
+        <model>
+          <name>Macadam 50</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/Macadam_50_Rear/info.html</html>
+        </model>
+        <model>
+          <name>Pilot Activ</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/Pilot_Activ/info.html</html>
+        </model>
+        <model>
+          <name>Pilot Power</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/Pilot_Power/info.html</html>
+        </model>
+        <model>
+          <name>Pilot Power 3</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/Pilot_Power_3/info.html</html>
+        </model>
+        <model>
+          <name>Pilot Road</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/Pilot_Road/info.html</html>
+        </model>
+        <model>
+          <name>Pilot Road 2</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/Pilot_Road_2/info.html</html>
+        </model>
+        <model>
+          <name>Pilot Road 3</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/Pilot_Road_3/info.html</html>
+        </model>
+        <model>
+          <name>Pilot Road 4</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/Pilot_Road_4/info.html</html>
+        </model>
+        <model>
+          <name>Pilot Road 4 GT</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/Pilot_Road_4/info.html</html>
+        </model>
+        <model>
+          <name>Pilot Road 4 Trail</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/Pilot_Road_4/info.html</html>
+        </model>
+        <model>
+          <name>Pilot Sport</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Pilot_Sport/info.html</html>
+        </model>
+        <model>
+          <name>Pilot Sport SC Radial</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/Pilot_Sport_SC_Radial_Front/info.html</html>
+        </model>
+        <model>
+          <name>Pilot Sporty</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/Pilot_Sporty_Front/info.html</html>
+        </model>
+        <model>
+          <name>Pilot Street</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/Pilot_Street/info.html</html>
+        </model>
+        <model>
+          <name>Pilot Street Radial</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/Pilot_Street_Radial/info.html</html>
+        </model>
+        <model>
+          <name>Power Pure SC</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/Power_Pure_SC/info.html</html>
+        </model>
+        <model>
+          <name>Power Pure SC Radial</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/Power_Pure_SC/info.html</html>
+        </model>
+        <model>
+          <name>Power SuperSport</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/Power_SuperSport_Front/info.html</html>
+        </model>
+        <model>
+          <name>Reggae</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/Reggae/info.html</html>
+        </model>
+        <model>
+          <name>S1</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/S1/info.html</html>
+        </model>
+        <model>
+          <name>S12 XC</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/S12_XC/info.html</html>
+        </model>
+        <model>
+          <name>S83</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/S83/info.html</html>
+        </model>
+        <model>
+          <name>Sirac</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/Sirac_Front/info.html</html>
+        </model>
+        <model>
+          <name>Starcross HP4</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/Starcross_HP4_Front/info.html</html>
+        </model>
+        <model>
+          <name>Starcross MH3</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/Starcross_MH3_Front/info.html</html>
+        </model>
+        <model>
+          <name>Starcross MH3 Junior</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/Starcross_MH3_Junior_Front/info.html</html>
+        </model>
+        <model>
+          <name>Starcross MS3</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/Starcross_MS3_Front/info.html</html>
+        </model>
+        <model>
+          <name>Starcross MS3 Junior</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/Starcross_MS3_Junior_Front/info.html</html>
+        </model>
+        <model>
+          <name>Starcross Sand 4</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/Starcross_Sand_4_Rear/info.html</html>
+        </model>
+        <model>
+          <name>T63</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/T63/info.html</html>
+        </model>
+        <model>
+          <name>Trial Light</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/Trial_Light/info.html</html>
+        </model>
+        <model>
+          <name>Trial X Light Competition</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelinmoto/Trial_X_Light_Competition/info.html</html>
+        </model>
+        <model>
+          <name>4X4 Alpin</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/4X4_Alpin/info.html</html>
+        </model>
+        <model>
+          <name>4X4 Diamaris</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/4X4_Diamaris/info.html</html>
+        </model>
+        <model>
+          <name>4X4 O/R XZL</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/4X4_O/R_XZL/info.html</html>
+        </model>
+        <model>
+          <name>4X4 Synchrone</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/4X4_Synchrone/info.html</html>
+        </model>
+        <model>
+          <name>Agilis</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Agilis/info.html</html>
+        </model>
+        <model>
+          <name>Agilis +</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Agilis_+/info.html</html>
+        </model>
+        <model>
+          <name>Agilis 41</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Agilis_41/info.html</html>
+        </model>
+        <model>
+          <name>Agilis 41 Snow-Ice</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Agilis_41_Snow-Ice/info.html</html>
+        </model>
+        <model>
+          <name>Agilis 51</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Agilis_51/info.html</html>
+        </model>
+        <model>
+          <name>Agilis 51 Snow-Ice</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Agilis_51_Snow-Ice/info.html</html>
+        </model>
+        <model>
+          <name>Agilis 61</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Agilis_61/info.html</html>
+        </model>
+        <model>
+          <name>Agilis 61 Snow-Ice</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Agilis_61_ Snow-Ice/info.html</html>
+        </model>
+        <model>
+          <name>Agilis 81</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Agilis_81/info.html</html>
+        </model>
+        <model>
+          <name>Agilis 81 Snow-Ice</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Agilis_81_Snow-Ice/info.html</html>
+        </model>
+        <model>
+          <name>Agilis Alpin</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Agilis_Alpin/info.html</html>
+        </model>
+        <model>
+          <name>Agilis Camping</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Agilis_Camping/info.html</html>
+        </model>
+        <model>
+          <name>Agilis X-Ice North</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Agilis_X-Ice_North/info.html</html>
+        </model>
+        <model>
+          <name>Alpin A2</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Alpin_A2/info.html</html>
+        </model>
+        <model>
+          <name>Alpin A3</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Alpin_A3/info.html</html>
+        </model>
+        <model>
+          <name>Alpin A4</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Alpin_A4/info.html</html>
+        </model>
+        <model>
+          <name>Alpin A5</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Alpin_5/info.html</html>
+        </model>
+        <model>
+          <name>Cross Terrain</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Cross_Terrain/info.html</html>
+        </model>
+        <model>
+          <name>CrossClimate</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Cross_Climate/info.html</html>
+        </model>
+        <model>
+          <name>CrossClimate +</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Cross_Climate_+/info.html</html>
+        </model>
+        <model>
+          <name>Energy E3A</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Energy_E3A/info.html</html>
+        </model>
+        <model>
+          <name>Energy E3B</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Energy_E3B/info.html</html>
+        </model>
+        <model>
+          <name>Energy E3B 1</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Energy_E3B/info.html</html>
+        </model>
+        <model>
+          <name>Energy Saver</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Energy_Saver/info.html</html>
+        </model>
+        <model>
+          <name>Energy Saver +</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Energy_Saver+/info.html</html>
+        </model>
+        <model>
+          <name>Energy XM2</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Energy_XM2/info.html</html>
+        </model>
+        <model>
+          <name>Latitude Alpin</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Latitude_Alpin/info.html</html>
+        </model>
+        <model>
+          <name>Latitude Alpin 2</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Latitude_Alpin_2/info.html</html>
+        </model>
+        <model>
+          <name>Latitude Alpin HP</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Latitude_Alpin_HP/info.html</html>
+        </model>
+        <model>
+          <name>Latitude Cross</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Latitude_Cross/info.html</html>
+        </model>
+        <model>
+          <name>Latitude Diamaris</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Latitude_Diamaris/info.html</html>
+        </model>
+        <model>
+          <name>Latitude Sport</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Latitude_Sport/info.html</html>
+        </model>
+        <model>
+          <name>Latitude Sport 3</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Latitude_Sport_3/info.html</html>
+        </model>
+        <model>
+          <name>Latitude Tour</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Latitude_Tour/info.html</html>
+        </model>
+        <model>
+          <name>Latitude Tour HP</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Latitude_Tour_HP/info.html</html>
+        </model>
+        <model>
+          <name>Latitude X-Ice</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Latitude_X-Ice/info.html</html>
+        </model>
+        <model>
+          <name>Latitude X-Ice North</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Latitude_X-Ice_North/info.html</html>
+        </model>
+        <model>
+          <name>Latitude X-Ice North LXIN2</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Latitude_X-Ice_North_LXIN2/info.html</html>
+        </model>
+        <model>
+          <name>Latitude X-Ice North LXIN2+</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Latitude_X-Ice_North_LXIN2+/info.html</html>
+        </model>
+        <model>
+          <name>Latitude X-Ice Xi2</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Latitude_X-Ice_Xi2/info.html</html>
+        </model>
+        <model>
+          <name>Pilot Alpin</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Pilot_Alpin/info.html</html>
+        </model>
+        <model>
+          <name>Pilot Alpin PA2</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Pilot_Alpin_PA2/info.html</html>
+        </model>
+        <model>
+          <name>Pilot Alpin PA3</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Pilot_Alpin_PA3/info.html</html>
+        </model>
+        <model>
+          <name>Pilot Alpin PA4</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Pilot_Alpin_PA4/info.html</html>
+        </model>
+        <model>
+          <name>Pilot Exalto PE2</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Pilot_Exalto_PE2/info.html</html>
+        </model>
+        <model>
+          <name>Pilot HX MXM</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Pilot_HX_MXM/info.html</html>
+        </model>
+        <model>
+          <name>Pilot HX MXM4</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Pilot_HX_MXM/info.html</html>
+        </model>
+        <model>
+          <name>Pilot Preceda</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Pilot_Preceda/info.html</html>
+        </model>
+        <model>
+          <name>Pilot Primacy</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Pilot_Primacy/info.html</html>
+        </model>
+        <model>
+          <name>Pilot Sport</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Pilot_Sport/info.html</html>
+        </model>
+        <model>
+          <name>Pilot Sport 4 S</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Pilot_Sport_PS4_S/info.html</html>
+        </model>
+        <model>
+          <name>Pilot Sport Cup</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Pilot_Sport_Cup/info.html</html>
+        </model>
+        <model>
+          <name>Pilot Sport Cup +</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Pilot_Sport_Cup_+/info.html</html>
+        </model>
+        <model>
+          <name>Pilot Sport Cup 2</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Pilot_Sport_Cup_2/info.html</html>
+        </model>
+        <model>
+          <name>Pilot Sport PS2</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Pilot_Sport_PS2/info.html</html>
+        </model>
+        <model>
+          <name>Pilot Sport PS3</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Pilot_Sport_PS3/info.html</html>
+        </model>
+        <model>
+          <name>Pilot Sport PS4</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Pilot_Sport_PS4/info.html</html>
+        </model>
+        <model>
+          <name>Pilot Super Sport</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Pilot_Super_Sport/info.html</html>
+        </model>
+        <model>
+          <name>Pilot SX MXX3</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Pilot_SX_MXX3/info.html</html>
+        </model>
+        <model>
+          <name>Primacy 3</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Primacy_3/info.html</html>
+        </model>
+        <model>
+          <name>Primacy 3 ST</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Primacy_3_ST/info.html</html>
+        </model>
+        <model>
+          <name>Primacy Alpin PA3</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Primacy_Alpin_PA3/info.html</html>
+        </model>
+        <model>
+          <name>Primacy HP</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Primacy_HP/info.html</html>
+        </model>
+        <model>
+          <name>Primacy LC</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/Primacy_LC/info.html</html>
+        </model>
+        <model>
+          <name>X-Ice</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/X-Ice/info.html</html>
+        </model>
+        <model>
+          <name>X-Ice North</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/X-Ice_North/info.html</html>
+        </model>
+        <model>
+          <name>X-Ice North Xin2</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/X-Ice_North_Xin2/info.html</html>
+        </model>
+        <model>
+          <name>X-Ice North Xin3</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/X-Ice_North_Xin3/info.html</html>
+        </model>
+        <model>
+          <name>X-Ice XI2</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/X-Ice_XI2/info.html</html>
+        </model>
+        <model>
+          <name>X-Ice XI3</name>
+          <html>http://www.4tochki.ru/descriptions/models/michelin/X-Ice_XI3/info.html</html>
+        </model>
+      </models>
+    </marka>
+    <marka>
+      <name>Mickey Thompson</name>
+      <logo>http://www.4tochki.ru/pictures/tyres/Mickey_Thompson/_logo/color.jpg</logo>
+      <html>http://www.4tochki.ru/descriptions/brands/mickeythompson/info.html</html>
+      <models>
+        <model>
+          <name>Baja ATZ P3</name>
+          <html>http://www.4tochki.ru/descriptions/models/mickeythompson/Baja_ATZ_P3/info.html</html>
+        </model>
+        <model>
+          <name>Baja ATZ Radial Plus</name>
+          <html>http://www.4tochki.ru/descriptions/models/mickeythompson/Baja_ATZ_Radial_Plus/info.html</html>
+        </model>
+        <model>
+          <name>Baja Claw TTC Radial</name>
+          <html>http://www.4tochki.ru/descriptions/models/mickeythompson/Baja_Claw_TTC_Radial/info.html</html>
+        </model>
+        <model>
+          <name>Baja MTZ Radial</name>
+          <html>http://www.4tochki.ru/descriptions/models/mickeythompson/Baja_MTZ_Radial/info.html</html>
+        </model>
+        <model>
+          <name>Baja STZ</name>
+          <html>http://www.4tochki.ru/descriptions/models/mickeythompson/Baja_STZ/info.html</html>
+        </model>
+        <model>
+          <name>Deegan 38</name>
+          <html>http://www.4tochki.ru/descriptions/models/mickeythompson/Deegan_38/info.html</html>
+        </model>
+      </models>
+    </marka>
+    <marka>
+      <name>Nexen</name>
+      <logo>http://www.4tochki.ru/pictures/tyres/Nexen/_logo/color.jpg</logo>
+      <html>http://www.4tochki.ru/descriptions/brands/nexen/info.html</html>
+      <models>
+        <model>
+          <name>CP321</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/CP321/info.html</html>
+        </model>
+        <model>
+          <name>CP521</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/CP521/info.html</html>
+        </model>
+        <model>
+          <name>CP621</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/CP621/info.html</html>
+        </model>
+        <model>
+          <name>CP641</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/CP641/info.html</html>
+        </model>
+        <model>
+          <name>CP643A</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/CP643A/info.html</html>
+        </model>
+        <model>
+          <name>CP661</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/CP661/info.html</html>
+        </model>
+        <model>
+          <name>CP671</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/CP671/info.html</html>
+        </model>
+        <model>
+          <name>CP672</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/CP672/info.html</html>
+        </model>
+        <model>
+          <name>CP672a</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/CP672A/info.html</html>
+        </model>
+        <model>
+          <name>CP691</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/CP691/info.html</html>
+        </model>
+        <model>
+          <name>Euro-Win 650</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/Euro_Win_650/info.html</html>
+        </model>
+        <model>
+          <name>Euro-Win 700</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/Euro_Win_700/info.html</html>
+        </model>
+        <model>
+          <name>Euro-Win 800</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/Euro_Win_800/info.html</html>
+        </model>
+        <model>
+          <name>N6000</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/N6000/info.html</html>
+        </model>
+        <model>
+          <name>N8000</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/N8000/info.html</html>
+        </model>
+        <model>
+          <name>Nblue HD</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/Nblue_HD/info.html</html>
+        </model>
+        <model>
+          <name>Nblue HD Plus</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/Nblue_HD_Plus/info.html</html>
+        </model>
+        <model>
+          <name>Nfera AU5</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/Nfera_AU5/info.html</html>
+        </model>
+        <model>
+          <name>Nfera RU1</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/Nfera_RU1/info.html</html>
+        </model>
+        <model>
+          <name>Nfera RU5</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/Nfera_RU5/info.html</html>
+        </model>
+        <model>
+          <name>Nfera SU1</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/Nfer_ SU1/info.html</html>
+        </model>
+        <model>
+          <name>Npriz 4S</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/NPriz_4S/info.html</html>
+        </model>
+        <model>
+          <name>Npriz AH5</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/Npriz_AH5/info.html</html>
+        </model>
+        <model>
+          <name>Npriz RH1</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/Npriz_RH1/info.html</html>
+        </model>
+        <model>
+          <name>Npriz RH7</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/Npriz_RH7/info.html</html>
+        </model>
+        <model>
+          <name>Radial A/T(RV)</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/Radial_AT_RV/info.html</html>
+        </model>
+        <model>
+          <name>Roadian 541</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/Roadian_541/info.html</html>
+        </model>
+        <model>
+          <name>Roadian 542</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/Roadian_542/info.html</html>
+        </model>
+        <model>
+          <name>Roadian 581</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/Roadian_581/info.html</html>
+        </model>
+        <model>
+          <name>Roadian AT</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/Roadian_AT/info.html</html>
+        </model>
+        <model>
+          <name>Roadian AT Pro RA8</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/Roadian_AT_PRO_RA8/info.html</html>
+        </model>
+        <model>
+          <name>Roadian ATII</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/Roadian_AT_2/info.html</html>
+        </model>
+        <model>
+          <name>Roadian CT8</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/Roadian_CT8/info.html</html>
+        </model>
+        <model>
+          <name>Roadian HP</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/Roadian_HP/info.html</html>
+        </model>
+        <model>
+          <name>Roadian HT</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/Roadian_HT/info.html</html>
+        </model>
+        <model>
+          <name>Roadian HT LTV</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/Roadian_HT_LTV/info.html</html>
+        </model>
+        <model>
+          <name>Roadian HTX RH5</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/Roadian_HTX_RH5/info.html</html>
+        </model>
+        <model>
+          <name>Roadian MT</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/Roadian_MT/info.html</html>
+        </model>
+        <model>
+          <name>SB700a</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/SB_700A/info.html</html>
+        </model>
+        <model>
+          <name>SV820</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/SV_820/info.html</html>
+        </model>
+        <model>
+          <name>Winguard</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/Winguard/info.html</html>
+        </model>
+        <model>
+          <name>Winguard Ice</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/Winguard_Ice/info.html</html>
+        </model>
+        <model>
+          <name>Winguard Ice SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/Winguard_Ice_SUV/info.html</html>
+        </model>
+        <model>
+          <name>Winguard Snow G</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/Winguard_Snow_G/info.html</html>
+        </model>
+        <model>
+          <name>Winguard Snow G WH2</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/Winguard_Snow_G_WH2/info.html</html>
+        </model>
+        <model>
+          <name>Winguard Sport</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/Winguard_Sport/info.html</html>
+        </model>
+        <model>
+          <name>Winguard SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/Winguard_SUV/info.html</html>
+        </model>
+        <model>
+          <name>Winguard Winspike WH6</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/Winguerd_win_Spike/info.html</html>
+        </model>
+        <model>
+          <name>Winguard Winspike WH62</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/Winguard_Win_Spike_WH62/info.html</html>
+        </model>
+        <model>
+          <name>Winguard Winspike WS6 SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/Winguard_Win_Spike_WS6_SUV/info.html</html>
+        </model>
+        <model>
+          <name>Winguard Winspike WS62 SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/nexen/Winguard_Win_Spike_WS62_SUV /info.html</html>
+        </model>
+      </models>
+    </marka>
+    <marka>
+      <name>Nitto</name>
+      <logo>http://www.4tochki.ru/pictures/tyres/Nitto/_logo/color.jpg</logo>
+      <html>http://www.4tochki.ru/descriptions/brands/Nitto/info.html</html>
+      <models>
+        <model>
+          <name>Dura Grappler</name>
+          <html>http://www.4tochki.ru/descriptions/models/nitto/Dura_Grappler/info.html</html>
+        </model>
+        <model>
+          <name>Neo Gen</name>
+          <html>http://www.4tochki.ru/descriptions/models/nitto/Neo_Gen/info.html</html>
+        </model>
+        <model>
+          <name>NT420S</name>
+          <html>http://www.4tochki.ru/descriptions/models/nitto/NT_420S/info.html</html>
+        </model>
+        <model>
+          <name>NT421Q</name>
+          <html>http://www.4tochki.ru/descriptions/models/nitto/NT_421Q/info.html</html>
+        </model>
+        <model>
+          <name>NT830</name>
+          <html>http://www.4tochki.ru/descriptions/models/nitto/NT_830/info.html</html>
+        </model>
+        <model>
+          <name>NT850+</name>
+          <html>http://www.4tochki.ru/descriptions/models/nitto/NT_850+/info.html</html>
+        </model>
+        <model>
+          <name>NT850+ Premium CUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/nitto/NT_850+_Premium_CUV/info.html</html>
+        </model>
+        <model>
+          <name>NT860</name>
+          <html>http://www.4tochki.ru/descriptions/models/nitto/NT_860/info.html</html>
+        </model>
+        <model>
+          <name>NT90W</name>
+          <html>http://www.4tochki.ru/descriptions/models/nitto/NT_90W/info.html</html>
+        </model>
+        <model>
+          <name>Therma Spike</name>
+          <html>http://www.4tochki.ru/descriptions/models/nitto/Therma_Spike/info.html</html>
+        </model>
+        <model>
+          <name>Trail Grappler M/T</name>
+          <html>http://www.4tochki.ru/descriptions/models/nitto/Trail_Grappler_MT/info.html</html>
+        </model>
+        <model>
+          <name>Winter SN2</name>
+          <html>http://www.4tochki.ru/descriptions/models/nitto/Winter_SN2/info.html</html>
+        </model>
+      </models>
+    </marka>
+    <marka>
+      <name>Nokian</name>
+      <logo>http://www.4tochki.ru/pictures/tyres/Nokian/_logo/color.jpg</logo>
+      <html>http://www.4tochki.ru/descriptions/brands/nokian/info.html</html>
+      <models>
+        <model>
+          <name>Hakka Black</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Hakka_Black/info.html</html>
+        </model>
+        <model>
+          <name>Hakka Black SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Hakka_Black_SUV/info.html</html>
+        </model>
+        <model>
+          <name>Hakka Blue</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Hakka_Blue/info.html</html>
+        </model>
+        <model>
+          <name>Hakka Blue 2</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Hakka_Blue_2/info.html</html>
+        </model>
+        <model>
+          <name>Hakka Blue SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Hakka_Blue_SUV/info.html</html>
+        </model>
+        <model>
+          <name>Hakka C Cargo</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Hakka_C_Cargo/info.html</html>
+        </model>
+        <model>
+          <name>Hakka C Van</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Hakka_C_Van/info.html</html>
+        </model>
+        <model>
+          <name>Hakka C2</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Hakka_C2/info.html</html>
+        </model>
+        <model>
+          <name>Hakka Green</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Hakka_Green/info.html</html>
+        </model>
+        <model>
+          <name>Hakka Green 2</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Hakka_Green2/info.html</html>
+        </model>
+        <model>
+          <name>Hakka H</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Hakka_H/info.html</html>
+        </model>
+        <model>
+          <name>Hakka i3</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Hakka_i3/info.html</html>
+        </model>
+        <model>
+          <name>Hakka SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Hakka_SUV/info.html</html>
+        </model>
+        <model>
+          <name>Hakka V</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Hakka_V/info.html</html>
+        </model>
+        <model>
+          <name>Hakka Z</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Hakka_Z/info.html</html>
+        </model>
+        <model>
+          <name>Hakka Z SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Hakka_Z_SUV/info.html</html>
+        </model>
+        <model>
+          <name>Hakkapeliitta 4</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Hakkapeliitta_4/info.html</html>
+        </model>
+        <model>
+          <name>Hakkapeliitta 5</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Hakkapeliitta_5/info.html</html>
+        </model>
+        <model>
+          <name>Hakkapeliitta 5 SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Hakkapeliitta_5_SUV/info.html</html>
+        </model>
+        <model>
+          <name>Hakkapeliitta 7</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Hakkapeliitta_7/info.html</html>
+        </model>
+        <model>
+          <name>Hakkapeliitta 7 SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Hakkapeliitta_7_SUV/info.html</html>
+        </model>
+        <model>
+          <name>Hakkapeliitta 8</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Hakkapeliitta_8/info.html</html>
+        </model>
+        <model>
+          <name>Hakkapeliitta 8 SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Hakkapeliitta_8_SUV/info.html</html>
+        </model>
+        <model>
+          <name>Hakkapeliitta C Cargo</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Hakkapeliitta_C_Cargo/info.html</html>
+        </model>
+        <model>
+          <name>Hakkapeliitta C Van</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Hakkapeliitta_C_Van/info.html</html>
+        </model>
+        <model>
+          <name>Hakkapeliitta C2</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Hakkapeliitta_C_2/info.html</html>
+        </model>
+        <model>
+          <name>Hakkapeliitta C3</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Hakkapeliitta_C_3/info.html</html>
+        </model>
+        <model>
+          <name>Hakkapeliitta CR Cargo</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Hakkapeliitta_CR_Cargo/info.html</html>
+        </model>
+        <model>
+          <name>Hakkapeliitta CR Van</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Hakkapeliitta_CR_Van/info.html</html>
+        </model>
+        <model>
+          <name>Hakkapeliitta CR3</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Hakkapeliitta_CR_3/info.html</html>
+        </model>
+        <model>
+          <name>Hakkapeliitta LT</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Hakkapeliitta_LT/info.html</html>
+        </model>
+        <model>
+          <name>Hakkapeliitta LT 2</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Hakkapeliitta_LT_2/info.html</html>
+        </model>
+        <model>
+          <name>Hakkapeliitta R</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Hakkapeliitta_R/info.html</html>
+        </model>
+        <model>
+          <name>Hakkapeliitta R SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Hakkapeliitta_R_SUV/info.html</html>
+        </model>
+        <model>
+          <name>Hakkapeliitta R2</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Hakkapeliitta_R2/info.html</html>
+        </model>
+        <model>
+          <name>Hakkapeliitta R2 SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Hakkapeliitta_R2_SUV/info.html</html>
+        </model>
+        <model>
+          <name>Hakkapeliitta RSi</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Hakkapeliitta_RSi/info.html</html>
+        </model>
+        <model>
+          <name>Hakkapeliitta SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Hakkapeliitta_SUV/info.html</html>
+        </model>
+        <model>
+          <name>NRHi</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/NRHi/info.html</html>
+        </model>
+        <model>
+          <name>NRVi</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/NRVi/info.html</html>
+        </model>
+        <model>
+          <name>NRVi SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/NRVi_SUV/info.html</html>
+        </model>
+        <model>
+          <name>NRY</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/NRY/info.html</html>
+        </model>
+        <model>
+          <name>Rockproof</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Rockproof/info.html</html>
+        </model>
+        <model>
+          <name>Rotiiva AT</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Rotiiva_AT/info.html</html>
+        </model>
+        <model>
+          <name>Rotiiva AT Plus</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Rotiiva_AT_Plus/info.html</html>
+        </model>
+        <model>
+          <name>Rotiiva HT</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Rotiiva_HT/info.html</html>
+        </model>
+        <model>
+          <name>Vatiiva M/T</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Vatiiva_M/T/info.html</html>
+        </model>
+        <model>
+          <name>WR</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/WR/info.html</html>
+        </model>
+        <model>
+          <name>WR A3</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/WR_A3/info.html</html>
+        </model>
+        <model>
+          <name>WR A4</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/WR_A4/info.html</html>
+        </model>
+        <model>
+          <name>WR C Cargo</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/WR_C_Cargo/info.html</html>
+        </model>
+        <model>
+          <name>WR C Van</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/WR_C_Van/info.html</html>
+        </model>
+        <model>
+          <name>WR C3</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/WR_C3/info.html</html>
+        </model>
+        <model>
+          <name>WR D3</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/WR_D3/info.html</html>
+        </model>
+        <model>
+          <name>WR D4</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/WR_D4/info.html</html>
+        </model>
+        <model>
+          <name>WR G2</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/WR_G2/info.html</html>
+        </model>
+        <model>
+          <name>WR G2 SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/WR_G2_SUV/info.html</html>
+        </model>
+        <model>
+          <name>WR SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/WR_SUV/info.html</html>
+        </model>
+        <model>
+          <name>WR SUV 3</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/WR_SUV_3/info.html</html>
+        </model>
+        <model>
+          <name>Z</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Z/info.html</html>
+        </model>
+        <model>
+          <name>Z G2</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Z_G2/info.html</html>
+        </model>
+      </models>
+    </marka>
+    <marka>
+      <name>Nordman</name>
+      <logo>http://www.4tochki.ru/pictures/tyres/Nordman/_logo/color.jpg</logo>
+      <html>http://www.4tochki.ru/descriptions/brands/nordman/info.html</html>
+      <models>
+        <model>
+          <name>Nordman +</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Nordman_+/info.html</html>
+        </model>
+        <model>
+          <name>Nordman 4</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Nordman_4/info.html</html>
+        </model>
+        <model>
+          <name>Nordman 5</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Nordman_5/info.html</html>
+        </model>
+        <model>
+          <name>Nordman 5 SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Nordman_5_SUV/info.html</html>
+        </model>
+        <model>
+          <name>Nordman C</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Nordman_C/info.html</html>
+        </model>
+        <model>
+          <name>Nordman RS</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Nordman_RS/info.html</html>
+        </model>
+        <model>
+          <name>Nordman RS2</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Nordman_RS2/info.html</html>
+        </model>
+        <model>
+          <name>Nordman RS2 SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Nordman_RS2_SUV/info.html</html>
+        </model>
+        <model>
+          <name>Nordman S SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Nordman_S_SUV/info.html</html>
+        </model>
+        <model>
+          <name>Nordman SC</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Nordman_SC/info.html</html>
+        </model>
+        <model>
+          <name>Nordman SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Nordman_SUV/info.html</html>
+        </model>
+        <model>
+          <name>Nordman SX</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Nordman_SX/info.html</html>
+        </model>
+        <model>
+          <name>Nordman SX2</name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Nordman_SX_2/info.html</html>
+        </model>
+        <model>
+          <name>Nordman SZ </name>
+          <html>http://www.4tochki.ru/descriptions/models/nokian/Nordman_SZ/info.html</html>
+        </model>
+      </models>
+    </marka>
+    <marka>
+      <name>Pirelli</name>
+      <logo>http://www.4tochki.ru/pictures/tyres/Pirelli/_logo/color.gif</logo>
+      <html>http://www.4tochki.ru/descriptions/brands/pirelli/info.html</html>
+      <models>
+        <model>
+          <name>Angel ST</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirellimoto/Angel_ST/info.html</html>
+        </model>
+        <model>
+          <name>Diablo Rosso Corsa</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirellimoto/Diablo_Rosso_Corsa/info.html</html>
+        </model>
+        <model>
+          <name>Diablo Rosso II</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirellimoto/Diablo_Rosso_II/info.html</html>
+        </model>
+        <model>
+          <name>Diablo Strada</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirellimoto/Diablo_Strada/info.html</html>
+        </model>
+        <model>
+          <name>Diablo Supercorsa SC</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirellimoto/Diablo_Supercorsa_SC/info.html</html>
+        </model>
+        <model>
+          <name>EVO 21</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirellimoto/EVO_21/info.html</html>
+        </model>
+        <model>
+          <name>EVO 22</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirellimoto/EVO_22/info.html</html>
+        </model>
+        <model>
+          <name>MT 75</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirellimoto/MT_75/info.html</html>
+        </model>
+        <model>
+          <name>SC 30</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirellimoto/SC_30/info.html</html>
+        </model>
+        <model>
+          <name>Scorpion MX eXTra</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirellimoto/Scorpion_MX_Extra_X/info.html</html>
+        </model>
+        <model>
+          <name>Scorpion MX Extra J</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirellimoto/Scorpion_MX_Extra_X/info.html</html>
+        </model>
+        <model>
+          <name>Scorpion MX Extra X</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirellimoto/Scorpion_MX_Extra_X/info.html</html>
+        </model>
+        <model>
+          <name>Scorpion MX Hard 486</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirellimoto/Scorpion_MX_Hard_486/info.html</html>
+        </model>
+        <model>
+          <name>Scorpion MX Mid Hard 554</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirellimoto/Scorpion_MX_Mid_Hard_554/info.html</html>
+        </model>
+        <model>
+          <name>Scorpion MX Mid Soft 32</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirellimoto/Scorpion_MX_Mid_Soft_32/info.html</html>
+        </model>
+        <model>
+          <name>Scorpion MX Soft 410</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirellimoto/Scorpion_MX_Soft_410/info.html</html>
+        </model>
+        <model>
+          <name>Scorpion XC Mid Hard</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirellimoto/Scorpion_XC_Mid_Hard/info.html</html>
+        </model>
+        <model>
+          <name>Scorpion XC Mid Soft</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirellimoto/Scorpion_XC_Mid_Soft/info.html</html>
+        </model>
+        <model>
+          <name>SL 26</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirellimoto/SL_26/info.html</html>
+        </model>
+        <model>
+          <name>Sport Demon</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirellimoto/Sport_Demon/info.html</html>
+        </model>
+        <model>
+          <name>ST 66</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirellimoto/ST_66/info.html</html>
+        </model>
+        <model>
+          <name>Carrier</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/Carrier/info.html</html>
+        </model>
+        <model>
+          <name>Chrono</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/Chrono/info.html</html>
+        </model>
+        <model>
+          <name>Chrono 2</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/Chrono_2/info.html</html>
+        </model>
+        <model>
+          <name>Chrono Camper</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/Chrono_Camper/info.html</html>
+        </model>
+        <model>
+          <name>Chrono Winter</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/Chrono_Winter/info.html</html>
+        </model>
+        <model>
+          <name>Cinturato P1</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/Cinturato_P1_/info.html</html>
+        </model>
+        <model>
+          <name>Cinturato P1 Verde</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/Cinturato_P1_Verde/info.html</html>
+        </model>
+        <model>
+          <name>Cinturato P4</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/Cinturato_P4/info.html</html>
+        </model>
+        <model>
+          <name>Cinturato P6</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/Cinturato_P6/info.html</html>
+        </model>
+        <model>
+          <name>Cinturato P7</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/Cinturato_P7/info.html</html>
+        </model>
+        <model>
+          <name>Cinturato P7 Blue</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/Cinturato_P7_Blue/info.html</html>
+        </model>
+        <model>
+          <name>Cinturato Winter</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/Cinturato_Winter/info.html</html>
+        </model>
+        <model>
+          <name>Dragon</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/Dragon/info.html</html>
+        </model>
+        <model>
+          <name>Eufori@</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/Eufori@/info.html</html>
+        </model>
+        <model>
+          <name>Ice Zero</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/Winter_Ice_Zero/info.html</html>
+        </model>
+        <model>
+          <name>Ice Zero FR</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/IceZero_FR/info.html</html>
+        </model>
+        <model>
+          <name>P Zero</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/P_Zero/info.html</html>
+        </model>
+        <model>
+          <name>P Zero Asimmetrico</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/P_Zero_Asimmetrico/info.html</html>
+        </model>
+        <model>
+          <name>P Zero Direzionale</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/P_Zero_Direzionale/info.html</html>
+        </model>
+        <model>
+          <name>P Zero Nero</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/P_Zero_Nero/info.html</html>
+        </model>
+        <model>
+          <name>P Zero Nero GT</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/P_Zero_Nero_GT/info.html</html>
+        </model>
+        <model>
+          <name>P Zero Rosso Asimmetrico</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/P_Zero_Rosso_Asimmetrico/info.html</html>
+        </model>
+        <model>
+          <name>P Zero Rosso Direzionale</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/P_Zero_Rosso_Direzionale/info.html</html>
+        </model>
+        <model>
+          <name>P Zero Silver</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/P_Zero_Silver/info.html</html>
+        </model>
+        <model>
+          <name>P3000 Energy</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/P3000_Energy/info.html</html>
+        </model>
+        <model>
+          <name>P6</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/P6/info.html</html>
+        </model>
+        <model>
+          <name>P6 Four Seasons</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/P6_Four_Seasons/info.html</html>
+        </model>
+        <model>
+          <name>P6000</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/P6000/info.html</html>
+        </model>
+        <model>
+          <name>P6000 Powergy</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/P6000/info.html</html>
+        </model>
+        <model>
+          <name>P7</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/P7/info.html</html>
+        </model>
+        <model>
+          <name>Scorpion ATR</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/Scorpion_ATR/info.html</html>
+        </model>
+        <model>
+          <name>Scorpion Ice&amp;Snow</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/Scorpion_Ice&amp;Snow/info.html</html>
+        </model>
+        <model>
+          <name>Scorpion MTR</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/Scorpion_MTR/info.html</html>
+        </model>
+        <model>
+          <name>Scorpion STR</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/Scorpion_STR/info.html</html>
+        </model>
+        <model>
+          <name>Scorpion Verde</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/Scorpion_Verde/info.html</html>
+        </model>
+        <model>
+          <name>Scorpion Verde All-Season</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/Scorpion_Verde_All-Season/info.html</html>
+        </model>
+        <model>
+          <name>Scorpion Winter</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/Scorpion_Winter/info.html</html>
+        </model>
+        <model>
+          <name>Scorpion Zero</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/Scorpion_Zero/info.html</html>
+        </model>
+        <model>
+          <name>Scorpion Zero Asimmetrico</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/Scorpion_Zero_Asimmetrico/info.html</html>
+        </model>
+        <model>
+          <name>Winter Carving</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/Winter_Carving/info.html</html>
+        </model>
+        <model>
+          <name>Winter Carving Edge</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/Winter_Carving_Edge/info.html</html>
+        </model>
+        <model>
+          <name>Winter Carving Edge SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/Winter_Carving_Edge_SUV/info.html</html>
+        </model>
+        <model>
+          <name>Winter Ice Control</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/Winter_Ice_Control/info.html</html>
+        </model>
+        <model>
+          <name>Winter SnowControl</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/Winter_SnowControl/info.html</html>
+        </model>
+        <model>
+          <name>Winter SnowControl Serie II</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/Winter_SnowControl_Serie_II/info.html</html>
+        </model>
+        <model>
+          <name>Winter SnowControl Serie III</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/Winter_SnowControl_Serie_III/info.html</html>
+        </model>
+        <model>
+          <name>Winter SnowSport</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/Winter_SnowSport/info.html</html>
+        </model>
+        <model>
+          <name>Winter SottoZero</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/Winter_SottoZero/info.html</html>
+        </model>
+        <model>
+          <name>Winter SottoZero Serie II</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/Winter_SottoZero_Serie_II/info.html</html>
+        </model>
+        <model>
+          <name>Winter SottoZero Serie III</name>
+          <html>http://www.4tochki.ru/descriptions/models/pirelli/Winter_SottoZero_Series_III/info.html</html>
+        </model>
+      </models>
+    </marka>
+    <marka>
+      <name>Sava</name>
+      <logo>http://www.4tochki.ru/pictures/tyres/Sava/_logo/color.gif</logo>
+      <html>http://www.4tochki.ru/descriptions/brands/sava/info.html</html>
+      <models>
+        <model>
+          <name>Adapto HP</name>
+          <html>http://www.4tochki.ru/descriptions/models/sava/Adapto_HP/info.html</html>
+        </model>
+        <model>
+          <name>Eskimo HP</name>
+          <html>http://www.4tochki.ru/descriptions/models/sava/Eskimo_HP/info.html</html>
+        </model>
+        <model>
+          <name>Eskimo S3</name>
+          <html>http://www.4tochki.ru/descriptions/models/sava/Eskimo_S3/info.html</html>
+        </model>
+        <model>
+          <name>Eskimo S3 Ice</name>
+          <html>http://www.4tochki.ru/descriptions/models/sava/Eskimo_S3_Ice/info.html</html>
+        </model>
+        <model>
+          <name>Eskimo S3+</name>
+          <html>http://www.4tochki.ru/descriptions/models/sava/Eskimo_S3+/info.html</html>
+        </model>
+        <model>
+          <name>Eskimo Stud</name>
+          <html>http://www.4tochki.ru/descriptions/models/sava/Eskimo_Stud/info.html</html>
+        </model>
+        <model>
+          <name>Eskimo SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/sava/Eskimo_SUV/info.html</html>
+        </model>
+        <model>
+          <name>Intensa HP</name>
+          <html>http://www.4tochki.ru/descriptions/models/sava/Intensa_HP/info.html</html>
+        </model>
+        <model>
+          <name>Intensa SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/sava/Intensa_SUV/info.html</html>
+        </model>
+        <model>
+          <name>Intensa UHP</name>
+          <html>http://www.4tochki.ru/descriptions/models/sava/Intensa_UHP/info.html</html>
+        </model>
+        <model>
+          <name>Perfecta</name>
+          <html>http://www.4tochki.ru/descriptions/models/sava/Perfecta/info.html</html>
+        </model>
+        <model>
+          <name>Trenta</name>
+          <html>http://www.4tochki.ru/descriptions/models/sava/Trenta/info.html</html>
+        </model>
+        <model>
+          <name>Trenta M+S</name>
+          <html>http://www.4tochki.ru/descriptions/models/sava/Trenta_M+S/info.html</html>
+        </model>
+      </models>
+    </marka>
+    <marka>
+      <name>Tigar</name>
+      <logo>http://www.4tochki.ru/pictures/tyres/Tigar/_logo/color.gif</logo>
+      <html>http://www.4tochki.ru/descriptions/brands/tigar/info.html</html>
+      <models>
+        <model>
+          <name>Cargo Speed</name>
+          <html>http://www.4tochki.ru/descriptions/models/tigar/Cargo_Speed/info.html</html>
+        </model>
+        <model>
+          <name>Cargo Speed Winter</name>
+          <html>http://www.4tochki.ru/descriptions/models/tigar/Cargo_Speed_Winter/info.html</html>
+        </model>
+        <model>
+          <name>Hitris</name>
+          <html>http://www.4tochki.ru/descriptions/models/tigar/Hitris/info.html</html>
+        </model>
+        <model>
+          <name>Prima</name>
+          <html>http://www.4tochki.ru/descriptions/models/tigar/Prima/info.html</html>
+        </model>
+        <model>
+          <name>Sigura</name>
+          <html>http://www.4tochki.ru/descriptions/models/tigar/Sigura/info.html</html>
+        </model>
+        <model>
+          <name>Sigura Stud</name>
+          <html>http://www.4tochki.ru/descriptions/models/tigar/Sigura_Stud/info.html</html>
+        </model>
+        <model>
+          <name>Syneris</name>
+          <html>http://www.4tochki.ru/descriptions/models/tigar/Syneris/info.html</html>
+        </model>
+        <model>
+          <name>TG621</name>
+          <html>http://www.4tochki.ru/descriptions/models/tigar/TG621/info.html</html>
+        </model>
+        <model>
+          <name>TG635</name>
+          <html>http://www.4tochki.ru/descriptions/models/tigar/TG635/info.html</html>
+        </model>
+        <model>
+          <name>TG725</name>
+          <html>http://www.4tochki.ru/descriptions/models/tigar/TG725/info.html</html>
+        </model>
+        <model>
+          <name>Winter 1</name>
+          <html>http://www.4tochki.ru/descriptions/models/tigar/Winter_1/info.html</html>
+        </model>
+      </models>
+    </marka>
+    <marka>
+      <name>Toyo</name>
+      <logo>http://www.4tochki.ru/pictures/tyres/Toyo/_logo/color.jpg</logo>
+      <html>http://www.4tochki.ru/descriptions/brands/toyo/info.html</html>
+      <models>
+        <model>
+          <name>330</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/330/info.html</html>
+        </model>
+        <model>
+          <name>350</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/350/info.html</html>
+        </model>
+        <model>
+          <name>DRB</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/DRB/info.html</html>
+        </model>
+        <model>
+          <name>H02</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/H02/info.html</html>
+        </model>
+        <model>
+          <name>H08</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/H08/info.html</html>
+        </model>
+        <model>
+          <name>H09</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/H09/info.html</html>
+        </model>
+        <model>
+          <name>NanoEnergy 3</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/NanoEnergy_3/info.html</html>
+        </model>
+        <model>
+          <name>Observe G2S</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/Observe_G2S/info.html</html>
+        </model>
+        <model>
+          <name>Observe G3-Ice</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/Observe_G3-Ice/info.html</html>
+        </model>
+        <model>
+          <name>Observe Garit G30</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/Observe_Garit_G30/info.html</html>
+        </model>
+        <model>
+          <name>Observe Garit G4</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/Garit_G4/info.html</html>
+        </model>
+        <model>
+          <name>Observe Garit GIZ</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/Observe_Garit_GIZ/info.html</html>
+        </model>
+        <model>
+          <name>Observe Garit KX</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/Observe_Garit_KX/info.html</html>
+        </model>
+        <model>
+          <name>Observe GSi-5</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/Observe_GSi-5/info.html</html>
+        </model>
+        <model>
+          <name>Open Country A/T</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/Open_Country_AT/info.html</html>
+        </model>
+        <model>
+          <name>Open Country A/T Plus</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/Open_Country_AT_Plus/info.html</html>
+        </model>
+        <model>
+          <name>Open Country A19A</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/Open_Country_A19A/info.html</html>
+        </model>
+        <model>
+          <name>Open Country A20</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/Open_Country_A20/info.html</html>
+        </model>
+        <model>
+          <name>Open Country H/T</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/Open_Country_HT/info.html</html>
+        </model>
+        <model>
+          <name>Open Country I/T</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/Open_Country_IT/info.html</html>
+        </model>
+        <model>
+          <name>Open Country M/T</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/Open_Country_MT/info.html</html>
+        </model>
+        <model>
+          <name>Open Country U/T</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/Open_Country_UT/info.html</html>
+        </model>
+        <model>
+          <name>Open Country W/T</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/Open_Country_WT/info.html</html>
+        </model>
+        <model>
+          <name>Proxes C1S</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/Proxes_C1S/info.html</html>
+        </model>
+        <model>
+          <name>Proxes CF1</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/Proxes_CF1/info.html</html>
+        </model>
+        <model>
+          <name>Proxes CF1 SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/Proxes_CF1_SUV/info.html</html>
+        </model>
+        <model>
+          <name>Proxes CF2</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/Proxes_CF2/info.html</html>
+        </model>
+        <model>
+          <name>Proxes CF2 SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/Proxes_CF2_SUV/info.html</html>
+        </model>
+        <model>
+          <name>Proxes R1R</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/Proxes_R1R/info.html</html>
+        </model>
+        <model>
+          <name>Proxes R888</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/Proxes_R888/info.html</html>
+        </model>
+        <model>
+          <name>Proxes R888R</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/Proxes_R888R/info.html</html>
+        </model>
+        <model>
+          <name>Proxes S/T</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/Proxes_ST/info.html</html>
+        </model>
+        <model>
+          <name>Proxes ST II</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/Proxes_ST_II/info.html</html>
+        </model>
+        <model>
+          <name>Proxes ST III</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/Proxes_ST_III/info.html</html>
+        </model>
+        <model>
+          <name>Proxes T1 Sport</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/Proxes_T1_Sport/info.html</html>
+        </model>
+        <model>
+          <name>Proxes T1 Sport SUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/Proxes_T1_Sport_SUV/info.html</html>
+        </model>
+        <model>
+          <name>Proxes T1R</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/Proxes_T1R/info.html</html>
+        </model>
+        <model>
+          <name>Snowprox S942</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/Snowprox_S942/info.html</html>
+        </model>
+        <model>
+          <name>Snowprox S953</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/Snowprox_S953/info.html</html>
+        </model>
+        <model>
+          <name>Snowprox S954</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/Snowprox_S954/info.html</html>
+        </model>
+        <model>
+          <name>Versado CUV</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/Versado_CUV/info.html</html>
+        </model>
+        <model>
+          <name>Winter Tranpath S1</name>
+          <html>http://www.4tochki.ru/descriptions/models/toyo/Winter_Tranpath_S1/info.html</html>
+        </model>
+      </models>
+    </marka>
+    <marka>
+      <name>Viatti</name>
+      <logo>http://www.4tochki.ru/pictures/tyres/Viatti/_logo/color.jpg</logo>
+      <html>http://www.4tochki.ru/descriptions/brands/viatti/info.html</html>
+      <models>
+        <model>
+          <name>Bosco Nordico V-523</name>
+          <html>http://www.4tochki.ru/descriptions/models/viatti/Bosco_Nordico_V-523 /info.html</html>
+        </model>
+        <model>
+          <name>Bosco S/T V-526</name>
+          <html>http://www.4tochki.ru/descriptions/models/viatti/Bosco_ST_V-526/info.html</html>
+        </model>
+        <model>
+          <name>Brina Nordico V-522</name>
+          <html>http://www.4tochki.ru/descriptions/models/viatti/Brina_Nordico_V-522/info.html</html>
+        </model>
+        <model>
+          <name>Brina V-521</name>
+          <html>http://www.4tochki.ru/descriptions/models/viatti/Brina_V-521/info.html</html>
+        </model>
+        <model>
+          <name>Vettore Brina V-525</name>
+          <html>http://www.4tochki.ru/descriptions/models/viatti/Vettore_Brina_V-525/info.html</html>
+        </model>
+        <model>
+          <name>Vettore Inverno V-524</name>
+          <html>http://www.4tochki.ru/descriptions/models/viatti/Vettore_Inverno_V-524/info.html</html>
+        </model>
+      </models>
+    </marka>
+    <marka>
+      <name>Yokohama</name>
+      <logo>http://www.4tochki.ru/pictures/tyres/Yokohama/_logo/color.gif</logo>
+      <html>http://www.4tochki.ru/descriptions/brands/yokohama/info.html</html>
+      <models>
+        <model>
+          <name>A.drive AA01</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/A.drive_AA01/info.html</html>
+        </model>
+        <model>
+          <name>A345</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/A345/info.html</html>
+        </model>
+        <model>
+          <name>A520</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/A520/info.html</html>
+        </model>
+        <model>
+          <name>A520 RB</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/A520/info.html</html>
+        </model>
+        <model>
+          <name>A539</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/A539/info.html</html>
+        </model>
+        <model>
+          <name>Advan A048 LTS</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Advan_A048_LTS/info.html</html>
+        </model>
+        <model>
+          <name>Advan A10A</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Advan_A10A/info.html</html>
+        </model>
+        <model>
+          <name>Advan A10F</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Advan_A10F/info.html</html>
+        </model>
+        <model>
+          <name>Advan Fleva V701</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Advan_Fleva_V701/info.html</html>
+        </model>
+        <model>
+          <name>Advan Neova AD07</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Advan_Neova_AD07/info.html</html>
+        </model>
+        <model>
+          <name>Advan Neova AD08</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Advan_Neova_AD08/info.html</html>
+        </model>
+        <model>
+          <name>Advan S.T. V802</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Advan_S.T._V802/info.html</html>
+        </model>
+        <model>
+          <name>Advan Sport V103</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Advan_Sport_V103/info.html</html>
+        </model>
+        <model>
+          <name>Advan Sport V103A</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Advan_Sport_V103/info.html</html>
+        </model>
+        <model>
+          <name>Advan Sport V103B</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Advan_Sport_V103/info.html</html>
+        </model>
+        <model>
+          <name>Advan Sport V103D</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Advan_Sport_V103D/info.html</html>
+        </model>
+        <model>
+          <name>Advan Sport V103E</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Advan_Sport_V103E/info.html</html>
+        </model>
+        <model>
+          <name>Advan Sport V103H</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Advan_Sport_V103/info.html</html>
+        </model>
+        <model>
+          <name>Advan Sport V103S</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Advan_Sport_V103/info.html</html>
+        </model>
+        <model>
+          <name>Advan Sport V105</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Advan_Sport_V105/info.html</html>
+        </model>
+        <model>
+          <name>Advan Sport V105C</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Advan_Sport_V105/info.html</html>
+        </model>
+        <model>
+          <name>Advan Sport V105S</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Advan_Sport_V105/info.html</html>
+        </model>
+        <model>
+          <name>Advan Sport V105W</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Advan_Sport_V105W/info.html?refresh</html>
+        </model>
+        <model>
+          <name>Advan Winter V902</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Advan_Winter_V902/info.html</html>
+        </model>
+        <model>
+          <name>AVS dB decibel V500</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/AVS_dB_decibel_V500/info.html</html>
+        </model>
+        <model>
+          <name>AVS dB decibel V550</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/AVS_dB_decibel_V550/info.html</html>
+        </model>
+        <model>
+          <name>AVS S/T Type-1 V801</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/AVS_S/T_Type-1_V801/info.html</html>
+        </model>
+        <model>
+          <name>AVS Sport V102</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/AVS_Sport_V102/info.html</html>
+        </model>
+        <model>
+          <name>AVS Sport V102A</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/AVS_Sport_V102/info.html</html>
+        </model>
+        <model>
+          <name>AVS Sport V102S</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/AVS_Sport_V102/info.html</html>
+        </model>
+        <model>
+          <name>AVS Winter V901</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/AVS_Winter_V901/info.html</html>
+        </model>
+        <model>
+          <name>BluEarth AE-01</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/BluEarth_AE-01/info.html</html>
+        </model>
+        <model>
+          <name>BluEarth AE-01A</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/BluEarth_AE-01/info.html</html>
+        </model>
+        <model>
+          <name>BluEarth AE-01B</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/BluEarth_AE-01/info.html</html>
+        </model>
+        <model>
+          <name>BluEarth E51B</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/BluEarth_E51B/info.html</html>
+        </model>
+        <model>
+          <name>BluEarth-1 EF10</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/BluEarth-1_EF10/info.html</html>
+        </model>
+        <model>
+          <name>BluEarth-A AE50</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/BluEarth-A_AE-50/info.html</html>
+        </model>
+        <model>
+          <name>C.drive AC01</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/C.drive_AC01/info.html</html>
+        </model>
+        <model>
+          <name>C.drive2 AC02</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/C.drive2_AC02/info.html</html>
+        </model>
+        <model>
+          <name>C.drive2 AC02A</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/C.drive2_AC02/info.html</html>
+        </model>
+        <model>
+          <name>dB decibel E70B</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/DB_decibel_E70B/info.html</html>
+        </model>
+        <model>
+          <name>dB decibel E70D</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/DB_decibel_E70D/info.html</html>
+        </model>
+        <model>
+          <name>Geolandar A/T G011</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Geolandar_A/T+II_G011/info.html</html>
+        </model>
+        <model>
+          <name>Geolandar A/T-S G012</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Geolandar_A/T-S_G012/info.html</html>
+        </model>
+        <model>
+          <name>Geolandar G91A</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Geolandar_G91A/info.html</html>
+        </model>
+        <model>
+          <name>Geolandar G91AT</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Geolandar_G91AT/info.html</html>
+        </model>
+        <model>
+          <name>Geolandar G91F</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Geolandar_G91F/info.html</html>
+        </model>
+        <model>
+          <name>Geolandar G94B</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Geolandar_94B/info.html</html>
+        </model>
+        <model>
+          <name>Geolandar G94BV</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Geolandar_94BV/info.html</html>
+        </model>
+        <model>
+          <name>Geolandar G95A</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Geolandar_G95A/info.html</html>
+        </model>
+        <model>
+          <name>Geolandar G98C</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Geolandar_G98C/info.html</html>
+        </model>
+        <model>
+          <name>Geolandar H/T G038</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Geolandar_H/T_G038/info.html</html>
+        </model>
+        <model>
+          <name>Geolandar H/T G039</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Geolandar_G039/info.html</html>
+        </model>
+        <model>
+          <name>Geolandar H/T G056</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Geolandar_HT_G056/info.html</html>
+        </model>
+        <model>
+          <name>Geolandar H/T-S G051</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Geolandar_H/T-S_G051/info.html</html>
+        </model>
+        <model>
+          <name>Geolandar I/T G072</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Geolandar_I/T_Studless_G072/info.html</html>
+        </model>
+        <model>
+          <name>Geolandar I/T+ G071</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Geolandar_I/T+_G071/info.html</html>
+        </model>
+        <model>
+          <name>Geolandar I/T-S G073</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Geolandar_I/T-S_Studless_G073/info.html</html>
+        </model>
+        <model>
+          <name>Geolandar M/T+ G001</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Geolandar_M/T+_G001/info.html</html>
+        </model>
+        <model>
+          <name>Geolandar M/T+ G001C</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Geolandar_M/T+_G001/info.html</html>
+        </model>
+        <model>
+          <name>Geolandar SUV G055</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Geolandar_SUV_G055/info.html</html>
+        </model>
+        <model>
+          <name>iceGuard Stud F700P</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/iceGuard_Stud_F700P/info.html</html>
+        </model>
+        <model>
+          <name>iceGuard Stud F700S</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/iceGuard_Stud_F700S/info.html</html>
+        </model>
+        <model>
+          <name>iceGuard Stud F700Z</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/iceGuard_Stud_F700Z/info.html</html>
+        </model>
+        <model>
+          <name>iceGuard Stud iG35</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/iceGuard_Stud_iG35/info.html</html>
+        </model>
+        <model>
+          <name>iceGuard Stud iG55</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/iceGuard_Stud_iG55/info.html</html>
+        </model>
+        <model>
+          <name>iceGuard Studless G075</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/iceGuard_Studless_G075/info.html</html>
+        </model>
+        <model>
+          <name>iceGuard Studless IG10</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/iceGuard_Studless_IG10/info.html</html>
+        </model>
+        <model>
+          <name>iceGuard Studless iG20</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/iceGuard_Studless_iG20/info.html</html>
+        </model>
+        <model>
+          <name>iceGuard Studless iG30</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/iceGuard_Studless_iG30/info.html</html>
+        </model>
+        <model>
+          <name>iceGuard Studless iG50</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/iceGuard_Studless_iG50/info.html</html>
+        </model>
+        <model>
+          <name>iceGuard Studless iG50+</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/iceGuard_Studless_iG50+/info.html</html>
+        </model>
+        <model>
+          <name>iceGuard Studless iG50A</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/iceGuard_Studless_iG50/info.html</html>
+        </model>
+        <model>
+          <name>iceGuard Studless iG50A+</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/iceGuard_Studless_iG50_A+/info.html</html>
+        </model>
+        <model>
+          <name>iceGuard Studless iG721</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/iceGuard_Studless_iG721/info.html</html>
+        </model>
+        <model>
+          <name>Parada Spec-2 PA01</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Parada_Spec-2_PA01/info.html</html>
+        </model>
+        <model>
+          <name>Parada Spec-X PA02</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Parada_Spec-X_PA02/info.html</html>
+        </model>
+        <model>
+          <name>RY818</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/RY818/info.html</html>
+        </model>
+        <model>
+          <name>S.drive AS01</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/S.drive_AS01/info.html</html>
+        </model>
+        <model>
+          <name>S306</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/S306/info.html</html>
+        </model>
+        <model>
+          <name>S71B</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/S71B/info.html</html>
+        </model>
+        <model>
+          <name>S760</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/S760/info.html</html>
+        </model>
+        <model>
+          <name>Super Van Y354</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Y354/info.html</html>
+        </model>
+        <model>
+          <name>Super Van Y355</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Super_Van_Y355/info.html</html>
+        </model>
+        <model>
+          <name>W.drive V902A</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/W.drive_V902A/info.html</html>
+        </model>
+        <model>
+          <name>W.drive V902B</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/W.drive_V902A/info.html</html>
+        </model>
+        <model>
+          <name>W.drive V905</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/W.drive_V905/info.html</html>
+        </model>
+        <model>
+          <name>W.drive WY01</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/W.drive_WY01/info.html</html>
+        </model>
+        <model>
+          <name>Y356</name>
+          <html>http://www.4tochki.ru/descriptions/models/yokohama/Y356/info.html</html>
+        </model>
+      </models>
+    </marka>
+</data>
